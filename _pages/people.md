@@ -8,29 +8,30 @@ redirect_from:
 
 {% include base_path %}
 
-<h2><strong>Jesse Chan</strong></h2>
+### Jesse Cham
 
-<p>Assistant Professor (2016-present)<br />
-<a href="http://www.caam.rice.edu" target="_blank" rel="noopener noreferrer">Department of Computational and Applied Mathematics</a><br />
-<p><strong>Education &amp; Other Appointments:</strong><br />
-Postdoctoral researcher (2015-2016): Department of Mathematics, Virginia Tech<br />
-Pfieffer Postdoctoral Instructor (2013-2015): Department of Computational and Applied Mathematics, Rice University<br />
-PhD (2013): Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin<br />
-BS (2004): Computational and Applied Mathematics, Rice University </p>
+Assistant Professor (2016-present)
+[Department of Computational and Applied Mathematics](http://www.caam.rice.edu)
 
-Bio: Jesse Chan is an assistant professor in the Department of Computational and Applied Mathematics at Rice University.  He received his PhD in Computational and Applied Mathematics from the University of Texas at Austin in 2013 working on high order adaptive finite element methods for steady compressible fluid flows.  He served as a Pfieffer postdoctoral instructor at Rice University from 2013-2015, and as a postdoctoral researcher at Virginia Tech from 2015-2016 before returning to Rice as faculty in 2016. His research focuses on accurate and efficient numerical solutions of time-dependent partial differential equations. His recent work has focused on the construction of provably stable high order methods for wave propagation and fluid dynamics and their implementation on Graphics Processing Units (GPUs).  
+**Education and Other Appointments:**
+Postdoctoral researcher (2015-2016): Department of Mathematics, Virginia Tech
+Pfieffer Postdoctoral Instructor (2013-2015): Department of Computational and Applied Mathematics, Rice University
+PhD (2013): Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin
+BS (2004): Computational and Applied Mathematics, Rice University
 
-<h2><strong>Graduate students:</strong></h2>
-<p><strong>Kaihang Guo</strong>: 2017-present, PhD student<br />
-<p><strong>Nigel Tan</strong>: 2018-present, MA student<br />
+**Bio:** Jesse Chan is an assistant professor in the Department of Computational and Applied Mathematics at Rice University.  He received his PhD in Computational and Applied Mathematics from the University of Texas at Austin in 2013 working on high order adaptive finite element methods for steady compressible fluid flows.  He served as a Pfieffer postdoctoral instructor at Rice University from 2013-2015, and as a postdoctoral researcher at Virginia Tech from 2015-2016 before returning to Rice as faculty in 2016. His research focuses on accurate and efficient numerical solutions of time-dependent partial differential equations. His recent work has focused on the construction of provably stable high order methods for wave propagation and fluid dynamics and their implementation on Graphics Processing Units (GPUs).
 
+### Graduate students:
 
-<h2><strong>Visiting students:</strong></h2>
-<p><strong>Khemraj Shukla</strong>: Oklaholma State, PhD student (Geophysics)<br />
+**Kaihang Guo**: 2017-present, PhD student. Efficient high order DG methods for wave propagation.
+**Nigel Tan**: 2018-present, MA student. Efficient implementation of high order entropy stable DG methods.
 
+### Visiting students:
 
-<h2><strong>Former members:</strong></h2>
+**Khemraj Shukla**: Oklaholma State, PhD student (Geophysics). Provably stable high order methods for Biot's equation.
 
-<p><strong>Matt Schwartz</strong>: Summer 2018, Rice undergraduate (Physics)<br />
-<p><strong>Joey Munar</strong>: Summer 2017, Rice undergraduate (CAAM)<br />
-<p><strong>Eva (Chen) Chen</strong>: Spring 2017, Rice undergraduate (CAAM)<br />
+### Former members: 
+
+**Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Entropy stable DG methods for the shallow water equations.
+**Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
+**Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite differenece methods.

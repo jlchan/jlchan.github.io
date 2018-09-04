@@ -5,13 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Upcoming talks**
+### Upcoming talks
 
 1. 2018, September 24. Department of Mathematics, Purdue University.
 1. 2018, October 7-8. SIAM Texas-Louisiana Sectional Meeting, LSU. 
 1. 2018, October 22. Department of Mathematics, Rensselaer Polytechnic Institute (RPI).
 
-**Recent talks** 
+### Recent talks
 
 Below are selected recent talks, with accompanying slides or video. A complete list of talks can be found on my [**CV**](../files/jcv.pdf).
 
