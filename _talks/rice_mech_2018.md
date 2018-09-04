@@ -4,7 +4,7 @@ collection: talks
 type: "Colloquium talk"
 permalink: /talks/mech_rice_2018
 venue: "Department of Mechanical Engineeering"
-date: 2018-08
+date: 2018-08-29
 location: "Houston, TX"
 ---
 
