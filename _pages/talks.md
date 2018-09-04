@@ -14,14 +14,17 @@ author_profile: true
 
 Below are selected recent talks and accompanying slides or video. A complete list of talks can be found on my [**CV**](../files/jcv.pdf).
 
-1. Entropy stable discontinuous Galerkin methods for nonlinear conservation laws (August 2018, Dept. of Mechanical Engineering, Rice University). [Slides](../files/esdg_mech_rice_2018.pdf)
-1. Energy-based methods for time-dependent acoustic and elastic wave propagation (August 2018, BIRS Workshop on Numerical Analysis of Coupled and Multi-Physics Problems with Dynamic
-Interface, Oaxaca, Mexico). [Video](https://www.birs.ca/events/2018/5-day-workshops/18w5077/videos/watch/201808021447-Chan.html)
-1. Discretely entropy stable discontinuous Galerkin methods (July 2018, WCCM, New York, New York).
-1. Discretely entropy stable discontinuous Galerkin methods with arbitrary bases and quadratures (July 2018, ICOSAHOM, London, United Kingdom). [Slides](../files/esdg_icosahom_london_2018.pdf)
-1. Weight-adjusted discontinuous Galerkin methods for elastic wave propagation (July 2018, ICOSAHOM, London, United Kingdom). [Slides](../files/elas_icosahom_london_2018.pdf)
+1. Entropy stable discontinuous Galerkin methods for nonlinear conservation laws. 
+   August 2018, Dept. of Mechanical Engineering, Rice University). [**Slides**](../files/esdg_mech_rice_2018.pdf)
+1. Energy-based methods for time-dependent acoustic and elastic wave propagation 
+   August 2018, BIRS Workshop on Numerical Analysis of Coupled and Multi-Physics Problems with Dynamic
+Interface, Oaxaca, Mexico. [Video](https://www.birs.ca/events/2018/5-day-workshops/18w5077/videos/watch/201808021447-Chan.html)
+1. Discretely entropy stable discontinuous Galerkin methods 
+   July 2018, WCCM, New York, New York).
+1. Discretely entropy stable discontinuous Galerkin methods with arbitrary bases and quadratures (July 2018, ICOSAHOM, London, United Kingdom). [**Slides**](../files/esdg_icosahom_london_2018.pdf)
+1. Weight-adjusted discontinuous Galerkin methods for elastic wave propagation (July 2018, ICOSAHOM, London, United Kingdom). [**Slides**](../files/elas_icosahom_london_2018.pdf)
 1. Discretely entropy stable discontinuous Galerkin methods (June 2018, ECCM-ECFD, Glasgow, United Kingdom).
-1. Efficient explicit solvers for multipatch discontinuous Galerkin isogeometric analysis (June 2018, ECCM-ECFD, Glasgow, United Kingdom). [Slides](../files/iga_eccm_glasgow_2018.pdf)
+1. Efficient explicit solvers for multipatch discontinuous Galerkin isogeometric analysis (June 2018, ECCM-ECFD, Glasgow, United Kingdom). [**Slides**](../files/iga_eccm_glasgow_2018.pdf)
 1. Discretely stable high order methods for nonlinear conservation laws (May 2018, Department of Mathematics, Virginia Tech, Blacksburg, VA).
 1. Discretely stable high order methods for nonlinear conservation laws (May 2018, Department of Mathematics, Virginia Tech, Blacksburg, VA).
 1. Discretely entropy stable high order methods for nonlinear conservation laws (May 2018, NASA Langley Research Center, Hampton, VA).
