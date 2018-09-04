@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jesse Chan"
   avatar           : "me.jpg"
-  bio              : "Assistant Professor of Computational and Applied Mathematics at Rice University"
+  bio              : "Assistant Professor of <a href=http://www.caam.rice.edu/>Computational and Applied Mathematics at Rice University</a>"
   location         : "Houston, TX"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en&oi=ao"
