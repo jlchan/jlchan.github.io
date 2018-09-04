@@ -10,7 +10,15 @@ redirect_from:
 
 <h2><strong>Jesse Chan</strong></h2>
 
-Jesse Chan is an assistant professor in the Department of 
+<p>Assistant Professor (2016-present)<br />
+<a href="http://www.caam.rice.edu" target="_blank" rel="noopener noreferrer">Department of Computational and Applied Mathematics</a><br />
+<p><strong>Education &amp; Other Appointments:</strong><br />
+Postdoctoral researcher (2015-2016): Department of Mathematics, Virginia Tech<br />
+Pfieffer Postdoctoral Instructor (2013-2015): Department of Computational and Applied Mathematics, Rice University<br />
+PhD (2013): Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin<br />
+BS (2004): Computational and Applied Mathematics, Rice University </p>
+
+Bio: Jesse Chan is an assistant professor in the Department of 
 Computational and Applied Mathematics at Rice University.  
 He received his PhD in Computational and Applied Mathematics 
 from the University of Texas at Austin in 2013 working on 
