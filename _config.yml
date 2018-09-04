@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Jesse Chan"
-  avatar           : "me.jpg"
-  bio              : "Assistant Professor of Computational and Applied Mathematics"
+  avatar           : "images/me.jpg"
+  bio              : "Assistant Professor of Computational and Applied Mathematics at Rice University"
   location         : "Houston, TX"
-  employer         :
+  employer         : 
   googlescholar    : "scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en"
-  email            :
+  email            : "jesse.chan@rice.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
