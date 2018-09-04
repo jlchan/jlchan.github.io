@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Vitae also available as [PDF](../files/jcv.pdf).
+Vitae also available as [**PDF**](../files/jcv.pdf).
 
 <iframe src="https://drive.google.com/file/d/1haaQPgAMkOqouNhVPiB8EHmol-okyQOy/preview" width="100%" height = "800"></iframe>
 
