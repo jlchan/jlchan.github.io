@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic webiste of Jesse Chan.
+This is the academic website of Jesse Chan.
+
+We have an open position for a CAAM Pfieffer Postdoctoral Instructor. 
+Please feel free to contact me for more information. 
+
+News: TBA
