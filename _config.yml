@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jesse Chan / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jesse Chan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jesse Chan"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
