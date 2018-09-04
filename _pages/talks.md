@@ -24,7 +24,6 @@ Interface, Oaxaca, Mexico). [**Video**](https://www.birs.ca/events/2018/5-day-wo
 * Discretely entropy stable discontinuous Galerkin methods (June 2018, ECCM-ECFD, Glasgow, United Kingdom).
 * Efficient explicit solvers for multipatch discontinuous Galerkin isogeometric analysis (June 2018, ECCM-ECFD, Glasgow, United Kingdom). [**Slides**](../files/iga_eccm_glasgow_2018.pdf)
 * Discretely stable high order methods for nonlinear conservation laws (May 2018, Department of Mathematics, Virginia Tech, Blacksburg, VA).
-* Discretely stable high order methods for nonlinear conservation laws (May 2018, Department of Mathematics, Virginia Tech, Blacksburg, VA).
 * Discretely entropy stable high order methods for nonlinear conservation laws (May 2018, NASA Langley Research Center, Hampton, VA).
 * Simulating waves and fluids: accuracy, stability, and high performance computing (May 2018, Ken Kennedy Institute, Houston, TX).
 * Discretely stable high order DG methods (April 2018, Department of Mathematics, Texas A&M, College Station, TX).
