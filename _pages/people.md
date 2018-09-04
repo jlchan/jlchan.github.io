@@ -34,4 +34,4 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 * **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). DG methods for the shallow water equations.
 * **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
-* **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite difference methods.
+* **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Methods for photoacoustic tomography (PAT).
