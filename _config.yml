@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jesse Chan / Site Title"
+title                    : "Jesse Chan / Site"
 title_separator          : "-"
 name                     : &name "Jesse Chan"
 description              : &description "personal description"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Jesse Chan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor of Computational and Applied Mathematics"
+  location         : "Houston, TX"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://scicomp.stackexchange.com/users/4912/jesse-chan" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
