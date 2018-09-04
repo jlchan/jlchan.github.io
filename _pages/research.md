@@ -11,7 +11,7 @@ You can find a complete list of publications on my [**Google Scholar page**](htt
 
 ### Fluid dynamics
 
-* 
+* d
 
 ### Wave propagation
 
@@ -23,4 +23,4 @@ You can find a complete list of publications on my [**Google Scholar page**](htt
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-{% end comment %}
+{% endcomment %}
