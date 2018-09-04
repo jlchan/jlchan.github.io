@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jesse Chan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jesse Chan"
 description              : &description "Assistant professor in CAAM at Rice University"
