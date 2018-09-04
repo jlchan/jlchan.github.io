@@ -23,18 +23,15 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Graduate students:
 
-**Kaihang Guo**: 2017-present, PhD student. Efficient high order DG methods for wave propagation.
-
-**Nigel Tan**: 2018-present, MA student. Efficient implementation of high order entropy stable DG methods.
+* **Kaihang Guo**: 2017-present, PhD student. Efficient high order DG methods for wave propagation.
+* **Nigel Tan**: 2018-present, MA student. Efficient implementation of high order entropy stable DG methods.
 
 ## Visiting students:
 
-**Khemraj Shukla**: Oklaholma State, PhD student (Geophysics). Provably stable high order methods for Biot's equation.
+* **Khemraj Shukla**: Oklaholma State, PhD student (Geophysics). Provably stable high order methods for Biot's equation.
 
 ## Former members: 
 
-**Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Entropy stable DG methods for the shallow water equations.
-
-**Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
-
-**Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite differenece methods.
+* **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Entropy stable DG methods for the shallow water equations.
+* **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
+* **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite differenece methods.
