@@ -15,7 +15,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 **Education and Other Appointments:**
 
 * Postdoctoral researcher (2015-2016): Department of Mathematics, Virginia Tech
-* Pfieffer Postdoctoral Instructor (2013-2015): Department of Computational and Applied Mathematics, Rice University
+* Pfieffer Postdoctoral Instructor (2013-2015): Dept.\ of Computational and Applied Mathematics, Rice University
 * PhD (2013): Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin
 * BS (2004): Computational and Applied Mathematics, Rice University
 
