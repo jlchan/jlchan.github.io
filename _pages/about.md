@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic webiste of Jesse Chan
+This is the academic webiste of Jesse Chan.
