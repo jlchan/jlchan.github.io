@@ -21,7 +21,8 @@ Nonlinear conservation laws govern the behavior of fluid phenomena such as compr
 
 Discretely entropy stable methods aim to restore stability while maintaining high order accuracy by ensuring that numerical solutions satisfy a semi-discrete entropy inequality. This entropy inequality serves as a generalization of  conservation or dissipation of energy, and ensures that the numerical solution does not blow up so long as the solution is physical (e.g. positive density, pressure). 
 
-Below is an example of a compressible inviscid weak shock-vortex interaction from [Shu 1998](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf) using an entropy stable method on a quadrilateral mesh of 100\times 50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
+Below is a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [Shu 1998](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf) using an entropy stable method on a quadrilateral mesh of 100\times 50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
+
 <img src="../files/shockVortexTp3.png" width="450" />
 <img src="../files/shockVortexTp7.png" width="450" />
 
