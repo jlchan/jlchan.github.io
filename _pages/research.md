@@ -25,7 +25,7 @@ Discretely entropy stable methods aim
 - ESDG curved
 - ESDG
 
-[Back to top](#top)
+[*Back to top*](#top)
 
 ### Efficient high order methods for wave propagation
 
@@ -36,7 +36,7 @@ Discretely entropy stable methods aim
 - WADG heterogeneous media
 - BBDG
 
-[Back to top](#top)
+[*Back to top*](#top)
 
 ### Efficient high order DG methods on curved meshes
 
@@ -44,7 +44,7 @@ Discretely entropy stable methods aim
 - BIDG
 - IGA-DG
 
-[Back to top](#top)
+[*Back to top*](#top)
 
 ### High order DG methods on hybrid meshes 
 
@@ -55,7 +55,7 @@ Appropriate choices of basis
 - Orthogonal pyr basis.
 - Pyr nodes
 
-[Back to top](#top)
+[*Back to top*](#top)
 
 {% include base_path %}
 
