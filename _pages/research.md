@@ -26,7 +26,7 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 <img src="../files/shockVortexTp3.png" width="450" />
 <img src="../files/shockVortexTp7.png" width="450" />
 
-#### Relevant papers:
+#### Selected relevant papers:
 
 - [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
 - [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
@@ -37,7 +37,7 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 
 
-#### Relevant papers: 
+#### Selected relevant papers: 
 
 - [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
 - [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
@@ -48,7 +48,7 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 ### Efficient and stable high order methods on curved meshes
 
-#### Relevant papers: 
+#### Selected relevant papers: 
 
 - WADG curved
 - BIDG
@@ -62,10 +62,13 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 Appropriate choices of basis
 
-- Hybridg
-- BBPyr
-- Orthogonal pyr basis.
-- Pyr nodes
+It is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements. However, constructing high order approximation spaces on pyramids is challenging 
+
+- [GPU-accelerated discontinuous Galerkin methods on hybrid meshes](https://www.sciencedirect.com/science/article/pii/S0021999116300353)
+- [A Short Note on a Bernstein-Bezier Basis for the Pyramid](https://epubs.siam.org/doi/abs/10.1137/15M1036397?journalCode=sjoce3)
+- [Orthogonal bases for vertex-mapped pyramids](https://epubs.siam.org/doi/abs/10.1137/15M1011408)
+- [hp finite element trace inequalities for the pyramid](https://www.sciencedirect.com/science/article/pii/S0898122115000358)
+#- [A comparison of high order interpolation nodes for the pyramid](https://epubs.siam.org/doi/abs/10.1137/141000105)
 
 [*Back to top*](#top)
 
