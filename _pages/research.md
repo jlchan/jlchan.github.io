@@ -21,7 +21,7 @@ Nonlinear conservation laws govern the behavior of fluid phenomena such as compr
 
 Discretely entropy stable methods aim to restore stability while maintaining high order accuracy by ensuring that numerical solutions satisfy a physically consistent entropy inequality. This entropy inequality serves as a generalization of the conservation or dissipation of energy to nonlinear PDEs, and ensures that the numerical solution does not blow up so long as the solution is physical (e.g. positive density, pressure). 
 
-Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [**Shu**](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
+Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [**Shu** (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
 
 <img src="../files/shockVortexTp3.png" width="450" />    <img src="../files/shockVortexTp7.png" width="450" />
 
@@ -34,7 +34,9 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 ## Efficient high order methods for wave propagation
 
+Simulations of wave propagation in complex heterogenous media arise in applications such as earthquake predicition or geophysical or medical tomography. High order methods are popular due to their high fidelity resolution of propagating waves; however, the computational cost of finite element and DG methods at high polynomial degrees discourages the use of very high orders of approximation. Our group has addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials, for which there exist yield low-complexity algorithms for major computational steps. 
 
+We have also 
 
 ### Selected relevant papers: 
 
@@ -47,10 +49,11 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 ## Efficient and stable high order methods on curved meshes
 
+
+
 ### Selected relevant papers: 
 
 - WADG curved
-- BIDG
 - IGA-DG
 
 [*Back to top*](#top)
