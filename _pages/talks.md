@@ -37,8 +37,8 @@ Interface, Oaxaca, Mexico). [**Video**](https://www.birs.ca/events/2018/5-day-wo
 * Bernstein-Bezier discontinuous Galerkin methods (Minisymposium talk, June 2017, 27th Biennial Numerical Analysis Conference, Glasgow, Scotland). [**Slides**](../files/bbdg_naconf_glasgow_2017.pdf)
 * Weight-adjusted discontinuous Galerkin methods for acoustic and elastic wave propagation (May 2017, WAVES 2017, Minneapolis, MN).
 * Weight-adjusted discontinuous Galerkin methods for acoustic and elastic wave propagation (March 2017, Rice Oil and Gas HPC Conference, Houston, TX). [**Video**](https://www.youtube.com/watch?v=D0vaeuS6MhM)
-* Efficient time-domain discontinuous Galerkin methods for wave propagation (March 2017, University of Texas at Austin, Austin, TX).
-* Weight-adjusted discontinuous Galerkin methods for heterogeneous media and curvilinear meshes (SIAM Conference on Computational Science and Engineering, February 2017, Atlanta, GA).
+* Efficient time-domain discontinuous Galerkin methods for wave propagation (March 2017, University of Texas at Austin, Austin, TX). [**Slides**](../files/wadg_ices_ut_2017.pdf)
+* Weight-adjusted discontinuous Galerkin methods for heterogeneous media and curvilinear meshes (SIAM Conference on Computational Science and Engineering, February 2017, Atlanta, GA). [**Slides**](../files/wadg_cse_atlanta_2017.pdf)
 
 
 {% comment %} 
