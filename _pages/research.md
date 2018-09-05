@@ -21,7 +21,8 @@ Nonlinear conservation laws govern the behavior of fluid phenomena such as compr
 
 Discretely entropy stable methods aim 
 
-![alt text](../files/shockVortexTp3.png) ![alt text](../files/shockVortexTp7.png) 
+<img src="../files/shockVortexTp3.png" width="200" height="200" />
+<img src="../files/shockVortexTp7.png" width="200" height="200" />
 
 - ESDG Gauss preprint
 - ESDG curved
@@ -50,7 +51,8 @@ Discretely entropy stable methods aim
 
 ### High order DG methods on hybrid meshes 
 
-![alt text](../files/hybrid_elems.png) ![alt text](../files/hybrid_mesh.png) 
+<img src="../files/hybrid_elems.png" width="200" height="200" />
+<img src="../files/hybrid_mesh.png" width="200" height="200" />
 
 Appropriate choices of basis
 
