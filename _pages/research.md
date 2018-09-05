@@ -40,14 +40,14 @@ One challenge for high order DG methods is the efficient, stable, and accurate i
 This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
 
 ### Selected relevant papers:
-- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
-- [Weight-Adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
+- [Weight-adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
 - [Weight-adjusted discontinuous Galerkin methods: curvilinear meshes](https://epubs.siam.org/doi/abs/10.1137/16M1089198)
+- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
 - [Multi-patch discontinuous Galerkin isogeometric analysis for wave propagation: Explicit time-stepping and efficient mass matrix inversion](https://www.sciencedirect.com/science/article/pii/S0045782518300240)
 
 Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for major computational steps. For a degree 4 approximation, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation.
 
-<img src="../files/ndg_vs_bbdg.png" width="600" />
+<img src="../files/ndg_vs_bbdg.png" width="800" />
 {% comment %}
 <img src="../files/bern1D.pdf" width="250" />    <img src="../files/bern2D.png" width="250" />   <img src="../files/bern3D.png" width="250" />
 {% endcomment %}
