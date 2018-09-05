@@ -37,6 +37,8 @@ Simulations of wave propagation in complex heterogenous media arise in applicati
 
 One challenge for high order DG methods is the efficient, stable, and accurate incorporation of media heterogeneities which vary spatially at the sub-cell level. It is difficult to construct approaches address all three requirements simultaneously. Our main achievement in this area was the introduction and analysis of a technique to incorporate sub-cell variations as weights within an easily invertible and high order accurate "weight-adjusted mass matrix", which can be interpreted as a generalization of mass lumping to more general types of elements. 
 
+<img src="../files/wadg_example.png" width="850" />
+
 This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
 
 ### Selected relevant papers:
