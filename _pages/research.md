@@ -11,7 +11,7 @@ Our work focuses on four main areas:
 - [**Nonlinear conservation laws**](#entropy-stable-methods-for-nonlinear-conservation-laws)
 - [**Wave propagation in heterogeneous media**](#efficient-high-order-methods-for-wave-propagation)
 - [**Simulations on curved geometries**](#efficient-and-stable-high-order-methods-on-curved-meshes)
-- [**DG methods on unstructured hybrid meshes**](#high-order-dg-methods-on-hybrid-meshes)
+- [**Finite element methods on unstructured hybrid meshes**](#finite-element-methods-on-hybrid-meshes)
 
 You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on arXiv under "Jesse Chan". 
 
@@ -55,7 +55,7 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 [*Back to top*](#top)
 
-### High order DG methods on hybrid meshes 
+### Finite element methods on hybrid meshes 
 
 <img src="../files/hybrid_elems.png" width="850" />
 
