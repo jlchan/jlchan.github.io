@@ -13,7 +13,7 @@ Our work focuses on four main areas:
 - [**Simulations on curved geometries**](#efficient-and-stable-high-order-methods-on-curved-meshes)
 - [**Finite element methods on hybrid meshes**](#finite-element-methods-on-hybrid-meshes)
 
-You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on arXiv under "Jesse Chan". 
+You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [**CV**](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
 
 ### Entropy stable methods for nonlinear conservation laws
 
