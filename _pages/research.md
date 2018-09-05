@@ -13,13 +13,18 @@ You can find a complete list of publications on my [**Google Scholar page**](htt
 
 * d
 
-### Low-complexity solvers for wave propagation
+### Provably stable high order methods for wave propagation
 
 * d
+
+### Low-complexity solvers for wave propagation
+
+* 
 
 ### Efficient DG methods on hybrid meshes 
 
 * d
+
 
 {% include base_path %}
 
