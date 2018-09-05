@@ -35,13 +35,17 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 Simulations of wave propagation in complex heterogenous media arise in applications such as earthquake predicition or geophysical or medical tomography. High order methods are popular due to their high fidelity resolution of propagating waves; however, the computational cost of finite element and DG methods at high polynomial degrees discourages the use of very high orders of approximation. 
 
-We have constructed ...(finish - generalized mass lumping)
+One challenge for high order DG methods is the efficient, stable, and accurate incorporation of media heterogeneities which vary spatially at the sub-cell level. It is difficult to construct approaches address all three requirements simultaneously. Our main achievement in this area was the introduction and analysis of a technique to incorporate sub-cell variations as weights within an easily invertible "weight-adjusted mass matrix", which can be interpreted as a generalization of mass lumping. 
+
+This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
 
 ### Selected relevant papers:
 - [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
 - [Weight-Adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
+- [Weight-adjusted discontinuous Galerkin methods: curvilinear meshes](https://epubs.siam.org/doi/abs/10.1137/16M1089198)
+- [Multi-patch discontinuous Galerkin isogeometric analysis for wave propagation: Explicit time-stepping and efficient mass matrix inversion](https://www.sciencedirect.com/science/article/pii/S0045782518300240)
 
-Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for major computational steps. For a degree 4 approximation, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  For a degree 9 approximation, this increases to a six-fold speedup.
+Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for major computational steps. For a degree 4 approximation, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation.
 
 <img src="../files/ndg_vs_bbdg.png" width="600" />
 {% comment %}
@@ -53,13 +57,6 @@ Our group has also addressed computational costs for high order DG methods by re
 - [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
 - [GPU-Accelerated Bernstein-Bezier Discontinuous Galerkin Methods for Wave Problems](https://epubs.siam.org/doi/abs/10.1137/15M1053542)
 
-These approaches are also 
-
-### Selected relevant papers: 
-
-- WADG curved
-- IGA-DG
-
 
 [*Back to top*](#top)
 
@@ -70,7 +67,7 @@ These approaches are also
 
 The use of unstructured meshes with finite element methods enables simulations of physical phenomena on complex geometries. However, not all meshes are equivalent. For example, while tetrahedral mesh generation tends to be more geometrically flexible, the use of hexahedral meshes can improve the efficiency of simulations by, for example, exposing a tensor product structure over each element. Hybrid meshes, which contain both hexahedral and tetrahedral elements, as well as transitional prismatic and pyramidal elements, make it possible to harness the advantages of both hexahedral and tetrahedral element types. 
 
-While it is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements, constructing high order finite elements on pyramids poses more of a challenge. We have extended several aspects of high order tetrahedral finite elements to pyramids, enabling the efficient GPU-accelerated simulations on hybrid meshes. 
+While it is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements, constructing high order finite elements on pyramids poses more of a challenge. We have extended several aspects of high order tetrahedral finite elements to pyramids. Combined with discretely energy stable DG formulations for wave propagation problems, these tools have enabled robust, efficient, and accurate GPU-accelerated simulations on unstructured hybrid meshes. 
 
 ### Selected relevant papers: 
 
