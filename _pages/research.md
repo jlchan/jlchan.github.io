@@ -54,7 +54,7 @@ Relevant papers
 
 ### High order DG methods on hybrid meshes 
 
-<img src="../files/hybrid_elems.png" width="800" />
+<img src="../files/hybrid_elems.png" width="850" />
 
 Appropriate choices of basis
 
