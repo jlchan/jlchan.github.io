@@ -28,7 +28,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Visiting students:
 
-* **Khemraj Shukla**: Oklaholma State, PhD student (Geophysics). DG methods for Biot's equation.
+* **Khemraj Shukla**: Oklaholma State, PhD student (Geophysics). DG methods for poroelastic waves (with M. V de Hoop).
 
 ## Former members: 
 
