@@ -15,7 +15,7 @@ Our work focuses on four main areas:
 
 You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [**CV**](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
 
-### Entropy stable methods for nonlinear conservation laws
+## Entropy stable methods for nonlinear conservation laws
 
 Nonlinear conservation laws govern the behavior of fluid phenomena such as compressible or shallow water flows. Numerical simulations of such phenomena are sensitive to problems of instability. For low order methods, this instability can be offset by the presence of numerical dissipation, which decreases accuracy but has a stabilizing effect on simulations.  However, the low numerical dissipation of high order methods becomes a double-edged sword, reducing robustness and rendering many high order discretizations unstable without additional regularization such as artificial viscosity, slope limiting, or filtering. This regularization is typically ad-hoc and can reduce accuracy. 
 
@@ -26,18 +26,18 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 <img src="../files/shockVortexTp3.png" width="450" />
 <img src="../files/shockVortexTp7.png" width="450" />
 
-#### Selected relevant papers:
+### Selected relevant papers:
 
 - [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
 - [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
 
 [*Back to top*](#top)
 
-### Efficient high order methods for wave propagation
+## Efficient high order methods for wave propagation
 
 
 
-#### Selected relevant papers: 
+### Selected relevant papers: 
 
 - [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
 - [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
@@ -46,9 +46,9 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 [*Back to top*](#top)
 
-### Efficient and stable high order methods on curved meshes
+## Efficient and stable high order methods on curved meshes
 
-#### Selected relevant papers: 
+### Selected relevant papers: 
 
 - WADG curved
 - BIDG
@@ -56,13 +56,15 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 [*Back to top*](#top)
 
-### Finite element methods on hybrid meshes 
+## Finite element methods on hybrid meshes 
 
 <img src="../files/hybrid_elems.png" width="850" />
 
 Appropriate choices of basis
 
-It is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements. However, constructing high order approximation spaces on pyramids is challenging 
+It is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements. However, constructing high order approximation spaces on pyramids 
+
+### Selected relevant papers: 
 
 - [GPU-accelerated discontinuous Galerkin methods on hybrid meshes](https://www.sciencedirect.com/science/article/pii/S0021999116300353)
 - [A Short Note on a Bernstein-Bezier Basis for the Pyramid](https://epubs.siam.org/doi/abs/10.1137/15M1036397?journalCode=sjoce3)
