@@ -9,11 +9,15 @@ Our research focuses on computational mechanics and the efficient numerical solu
 
 You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on arXiv under "Jesse Chan".
 
-### Fluid dynamics
+### High order entropy stable methods for nonlinear conservation laws
 
 * d
 
-### Wave propagation
+### Low-complexity solvers for wave propagation
+
+* d
+
+### Efficient DG methods on hybrid meshes 
 
 * d
 
