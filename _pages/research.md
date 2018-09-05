@@ -28,20 +28,21 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 
 #### Relevant papers:
 
-- ESDG curved
-- ESDG
+- [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
+- [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
 
 [*Back to top*](#top)
 
 ### Efficient high order methods for wave propagation
 
 
+
 #### Relevant papers: 
 
-- BBWADG
-- Elastic WADG media
-- WADG heterogeneous media
-- BBDG
+- [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
+- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
+- [Weight-Adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
+- [GPU-Accelerated Bernstein-Bezier Discontinuous Galerkin Methods for Wave Problems](https://epubs.siam.org/doi/abs/10.1137/15M1053542)
 
 [*Back to top*](#top)
 
