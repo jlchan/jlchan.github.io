@@ -10,7 +10,7 @@ Our research focuses primarily on high order numerical methods for both linear a
 Our work focuses on four main areas: 
 - [**Nonlinear conservation laws**](#entropy-stable-methods-for-nonlinear-conservation-laws)
 - [**Wave propagation in heterogeneous media**](#efficient-high-order-methods-for-wave-propagation)
-- [**Simulations on curved geometries**](#efficient-high-order-dg-methods-on-curved-meshes)
+- [**Simulations on curved geometries**](#efficient-and-stable-high-order-methods-on-curved-meshes)
 - [**DG methods on unstructured hybrid meshes**](#high-order-dg-methods-on-hybrid-meshes)
 
 You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on arXiv under "Jesse Chan". 
@@ -26,8 +26,8 @@ Below is a horizontally periodic version of a compressible inviscid weak shock-v
 <img src="../files/shockVortexTp3.png" width="450" />
 <img src="../files/shockVortexTp7.png" width="450" />
 
-Relevant papers
-- ESDG Gauss preprint
+#### Relevant papers:
+
 - ESDG curved
 - ESDG
 
@@ -36,6 +36,7 @@ Relevant papers
 ### Efficient high order methods for wave propagation
 
 
+#### Relevant papers: 
 
 - BBWADG
 - Elastic WADG media
@@ -44,7 +45,9 @@ Relevant papers
 
 [*Back to top*](#top)
 
-### Efficient high order DG methods on curved meshes
+### Efficient and stable high order methods on curved meshes
+
+#### Relevant papers: 
 
 - WADG curved
 - BIDG
