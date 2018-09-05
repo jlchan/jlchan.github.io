@@ -7,10 +7,9 @@ author_profile: true
 
 Our research focuses primarily on high order numerical methods for both linear and nonlinear hyperbolic partial differential equations (PDEs) which are provably reliable and efficient. A significant advantage of high order methods for time-dependent hyperbolic PDEs is their low numerical dispersion and dissipation compared to low order methods, which allows for the high-fidelity propagation of waves, vortices, and subgrid features over long time and length scales. 
 
-Our work focuses on four main areas: 
+Most of our work falls into three main areas: 
 - [**Computational fluid dynamics**](#entropy-stable-methods-for-nonlinear-conservation-laws)
-- [**Wave propagation in heterogeneous media**](#efficient-high-order-methods-for-wave-propagation)
-- [**Simulations on curved geometries**](#efficient-and-stable-high-order-methods-on-curved-meshes)
+- [**Wave propagation in complex heterogeneous media**](#efficient-high-order-methods-for-wave-propagation)
 - [**Finite element methods on hybrid meshes**](#finite-element-methods-on-hybrid-meshes)
 
 You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [**CV**](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
@@ -34,44 +33,50 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 ## Efficient high order methods for wave propagation
 
-Simulations of wave propagation in complex heterogenous media arise in applications such as earthquake predicition or geophysical or medical tomography. High order methods are popular due to their high fidelity resolution of propagating waves; however, the computational cost of finite element and DG methods at high polynomial degrees discourages the use of very high orders of approximation. Our group has addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials, for which there exist yield low-complexity algorithms for major computational steps. 
+Simulations of wave propagation in complex heterogenous media arise in applications such as earthquake predicition or geophysical or medical tomography. High order methods are popular due to their high fidelity resolution of propagating waves; however, the computational cost of finite element and DG methods at high polynomial degrees discourages the use of very high orders of approximation. 
 
-We have also 
+We have constructed ...(finish - generalized mass lumping)
+
+### Selected relevant papers:
+- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
+- [Weight-Adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
+
+Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for major computational steps. For a degree 4 approximation, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  For a degree 9 approximation, this increases to a six-fold speedup.
+
+<img src="../files/ndg_vs_bbdg.png" width="600" />
+{% comment %}
+<img src="../files/bern1D.pdf" width="250" />    <img src="../files/bern2D.png" width="250" />   <img src="../files/bern3D.png" width="250" />
+{% endcomment %}
 
 ### Selected relevant papers: 
 
 - [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
-- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
-- [Weight-Adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
 - [GPU-Accelerated Bernstein-Bezier Discontinuous Galerkin Methods for Wave Problems](https://epubs.siam.org/doi/abs/10.1137/15M1053542)
 
-[*Back to top*](#top)
-
-## Efficient and stable high order methods on curved meshes
-
-
+These approaches are also 
 
 ### Selected relevant papers: 
 
 - WADG curved
 - IGA-DG
 
+
 [*Back to top*](#top)
+
 
 ## Finite element methods on hybrid meshes 
 
 <img src="../files/hybrid_elems.png" width="850" />
 
-Appropriate choices of basis
+The use of unstructured meshes with finite element methods enables simulations of physical phenomena on complex geometries. However, not all meshes are equivalent. For example, while tetrahedral mesh generation tends to be more geometrically flexible, the use of hexahedral meshes can improve the efficiency of simulations by, for example, exposing a tensor product structure over each element. Hybrid meshes, which contain both hexahedral and tetrahedral elements, as well as transitional prismatic and pyramidal elements, make it possible to harness the advantages of both hexahedral and tetrahedral element types. 
 
-It is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements. However, constructing high order approximation spaces on pyramids 
+While it is generally straightforward to construct high order finite element spaces on hexahedral, tetrahedral, and prismatic elements, constructing high order finite elements on pyramids poses more of a challenge. We have extended several aspects of high order tetrahedral finite elements to pyramids, enabling the efficient GPU-accelerated simulations on hybrid meshes. 
 
 ### Selected relevant papers: 
 
 - [GPU-accelerated discontinuous Galerkin methods on hybrid meshes](https://www.sciencedirect.com/science/article/pii/S0021999116300353)
 - [A Short Note on a Bernstein-Bezier Basis for the Pyramid](https://epubs.siam.org/doi/abs/10.1137/15M1036397?journalCode=sjoce3)
 - [Orthogonal bases for vertex-mapped pyramids](https://epubs.siam.org/doi/abs/10.1137/15M1011408)
-- [hp finite element trace inequalities for the pyramid](https://www.sciencedirect.com/science/article/pii/S0898122115000358)
 - [A comparison of high order interpolation nodes for the pyramid](https://epubs.siam.org/doi/abs/10.1137/141000105)
 
 [*Back to top*](#top)
@@ -79,6 +84,8 @@ It is generally straightforward to construct high order finite element spaces on
 {% include base_path %}
 
 {% comment %}
+- [hp finite element trace inequalities for the pyramid](https://www.sciencedirect.com/science/article/pii/S0898122115000358)
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
