@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Vitae also available as [**PDF**](../files/jcv.pdf).
+Vitae also available to download [**here**](../files/jcv.pdf).
 
 <object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/jcv.pdf">
