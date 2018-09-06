@@ -1,11 +1,9 @@
 ---
-title: "People"
+layout: single
 permalink: /people/
 author_profile: true
 redirect_from: 
 ---
-
-{% include base_path %}
 
 ## Jesse Chan
 
@@ -14,7 +12,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 **Education and Other Appointments:**
 
 * Postdoctoral Researcher (2015-2016): Department of Mathematics, Virginia Tech
-* Pfieffer Postdoctoral Instructor (2013-2015): Dept. of Computational and Applied Mathematics, Rice University
+* Pfieffer Postdoctoral Instructor (2013-2015): Department of Computational and Applied Mathematics, Rice University
 * PhD (2013): Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin
 * BS (2004): Computational and Applied Mathematics, Rice University
 
@@ -34,3 +32,4 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 * **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). DG methods for the shallow water equations.
 * **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
 * **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Methods for photoacoustic tomography (PAT).
+
