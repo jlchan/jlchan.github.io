@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: single
 permalink: /people/
-author_profile: false
+author_profile: true
 redirect_from: 
 ---
 
