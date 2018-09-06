@@ -33,6 +33,6 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 ## Former members: 
 
 * **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Discontinuous Galerkin methods for the shallow water equations.
-* **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete interpolation points for B-splines.
+* **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
 * **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite difference methods.
 
