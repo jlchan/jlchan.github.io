@@ -16,7 +16,7 @@ You can find a complete list of publications on my [Google Scholar page](https:/
 
 ## Entropy stable methods for nonlinear conservation laws
 
-Nonlinear conservation laws govern the behavior of fluid phenomena such as compressible or shallow water flows. Numerical simulations of such phenomena are sensitive to problems of instability. For low order methods, this instability can be offset by the presence of numerical dissipation, which decreases accuracy but has a stabilizing effect on simulations.  However, the low numerical dissipation of high order methods becomes a double-edged sword, reducing robustness and rendering many high order discretizations unstable without additional regularization such as artificial viscosity, slope limiting, or filtering. This regularization is typically ad-hoc and can reduce accuracy. 
+Nonlinear conservation laws govern the behavior of fluid phenomena such as compressible or shallow water flows. Numerical simulations of such phenomena are sensitive to problems of instability. For low order methods, this instability can be offset by the presence of numerical dissipation, which decreases accuracy but has a stabilizing effect on simulations.  However, the low numerical dissipation of high order methods becomes a double-edged sword, reducing robustness and rendering many high order discretizations unstable without additional regularization such as artificial viscosity, slope limiting, or filtering. This regularization can, in turn, reduce accuracy to first or second order. 
 
 Discretely entropy stable methods aim to restore stability while maintaining high order accuracy by ensuring that numerical solutions satisfy a physically consistent entropy inequality. This entropy inequality serves as a generalization of the conservation or dissipation of energy to nonlinear PDEs, and ensures that the numerical solution does not blow up so long as the solution is physical (e.g. positive density, pressure). 
 
@@ -52,7 +52,7 @@ This approach has been extended to "matrix-valued" weights, with applications in
 
 Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for the two major computational steps in DG (computing volume and surface contributions). For a degree 4 approximation with piecewise constant media, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation. We have also introduced a low-complexity Bernstein-Bezier version of the weight-adjusted DG method for sub-cell heterogeneities. 
 
-<img src="../files/ndg_vs_bbdg.png" width="900" />
+<img src="../files/ndg_vs_bbdg.png" width="850" />
 {% comment %}
 <img src="../files/bern1D.pdf" width="250" />    <img src="../files/bern2D.png" width="250" />   <img src="../files/bern3D.png" width="250" />
 {% endcomment %}
