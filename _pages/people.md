@@ -1,5 +1,7 @@
 ---
-layout: archive
+layout: single
+classes:
+  - wide
 title: "People"
 permalink: /people/
 author_profile: true
@@ -21,7 +23,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Graduate students:
 
-* **Kaihang Guo**: 2017-present, PhD student. Efficient high order discontinuous Galerkin methods for wave propagation.
+* **Kaihang Guo**: 2017-present, PhD student. High order discontinuous Galerkin methods for wave propagation.
 * **Nigel Tan**: 2018-present, MA student. Efficient implementation of high order entropy stable discontinuous Galerkin methods.
 
 ## Visiting students:
