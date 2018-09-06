@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -23,7 +22,7 @@ Discretely entropy stable methods aim to restore stability while maintaining hig
 
 Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [Shu (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
 
-<img src="../files/shockVortexTp3.png" width="450" />    <img src="../files/shockVortexTp7.png" width="450" />
+<img src="../files/shockVortexTp3.png" width="450" /><img src="../files/shockVortexTp7.png" width="450" />
 
 ### Selected relevant papers:
 
