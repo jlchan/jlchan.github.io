@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "People"
 permalink: /people/
 author_profile: true
