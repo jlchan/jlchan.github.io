@@ -22,7 +22,10 @@ Discretely entropy stable methods aim to restore stability while maintaining hig
 
 Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [Shu (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
 
-<img src="../files/shockVortexTp3.png" width="400" /><img src="../files/shockVortexTp7.png" width="400" />
+<p float="left">
+  <img src="../files/shockVortexTp3.png" width="450" />
+  <img src="../files/shockVortexTp7.png" width="450" />  
+</p>
 
 ### Selected relevant papers:
 
@@ -37,7 +40,7 @@ Simulations of wave propagation in complex heterogenous media arise in applicati
 
 One challenge for high order DG methods is the efficient, stable, and accurate incorporation of media heterogeneities which vary spatially at the sub-cell level. It is difficult to construct approaches address all three requirements simultaneously. Our main achievement in this area was the introduction and analysis of a technique to incorporate sub-cell variations as weights within an easily invertible and high order accurate "weight-adjusted mass matrix", which can be interpreted as a generalization of mass lumping to more general types of elements. As seen below, high order DG methods which use a piecewise constant approximation of heterogeneous media produce spurious reflections. These reflections vanish upon switching to a high order representation of media.
 
-<img src="../files/wadg_example.png" width="800" />
+<img src="../files/wadg_example.png" width="900" />
 
 This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
 
@@ -49,7 +52,7 @@ This approach has been extended to "matrix-valued" weights, with applications in
 
 Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for the two major computational steps in DG (computing volume and surface contributions). For a degree 4 approximation with piecewise constant media, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation. We have also introduced a low-complexity Bernstein-Bezier version of the weight-adjusted DG method for sub-cell heterogeneities. 
 
-<img src="../files/ndg_vs_bbdg.png" width="800" />
+<img src="../files/ndg_vs_bbdg.png" width="900" />
 {% comment %}
 <img src="../files/bern1D.pdf" width="250" />    <img src="../files/bern2D.png" width="250" />   <img src="../files/bern3D.png" width="250" />
 {% endcomment %}
@@ -66,7 +69,7 @@ Our group has also addressed computational costs for high order DG methods by re
 
 ## Finite element methods on hybrid meshes 
 
-<img src="../files/hybrid_elems.png" width="800" />
+<img src="../files/hybrid_elems.png" width="900" />
 
 The use of unstructured meshes with finite element methods enables simulations of physical phenomena on complex geometries. However, not all meshes are equivalent. For example, while tetrahedral mesh generation tends to be more geometrically flexible, the use of hexahedral meshes can improve the efficiency of simulations by, for example, exposing a tensor product structure over each element. Hybrid meshes, which contain both hexahedral and tetrahedral elements, as well as transitional prismatic and pyramidal elements, make it possible to harness the advantages of both hexahedral and tetrahedral element types. 
 
