@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -8,11 +7,11 @@ author_profile: true
 Our research focuses primarily on high order numerical methods for both linear and nonlinear hyperbolic partial differential equations (PDEs) which are provably reliable and efficient. A significant advantage of high order methods for time-dependent hyperbolic PDEs is their low numerical dispersion and dissipation compared to low order methods, which allows for the high-fidelity propagation of waves, vortices, and subgrid features over long time and length scales. 
 
 Most of our work falls into three main areas: 
-- [**Computational fluid dynamics**](#entropy-stable-methods-for-nonlinear-conservation-laws)
-- [**Wave propagation in complex heterogeneous media**](#efficient-high-order-methods-for-wave-propagation)
-- [**Finite element methods on hybrid meshes**](#finite-element-methods-on-hybrid-meshes)
+- [Computational fluid dynamics](#entropy-stable-methods-for-nonlinear-conservation-laws)
+- [Wave propagation in complex heterogeneous media](#efficient-high-order-methods-for-wave-propagation)
+- [Finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes)
 
-You can find a complete list of publications on my [**Google Scholar page**](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [**CV**](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
+You can find a complete list of publications on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
 
 ## Entropy stable methods for nonlinear conservation laws
 
@@ -20,16 +19,16 @@ Nonlinear conservation laws govern the behavior of fluid phenomena such as compr
 
 Discretely entropy stable methods aim to restore stability while maintaining high order accuracy by ensuring that numerical solutions satisfy a physically consistent entropy inequality. This entropy inequality serves as a generalization of the conservation or dissipation of energy to nonlinear PDEs, and ensures that the numerical solution does not blow up so long as the solution is physical (e.g. positive density, pressure). 
 
-Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [**Shu** (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
+Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [Shu (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
 
 <img src="../files/shockVortexTp3.png" width="450" />    <img src="../files/shockVortexTp7.png" width="450" />
 
 ### Selected relevant papers:
 
-- [*On discretely entropy conservative and entropy stable discontinuous Galerkin methods*](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
-- [*Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes*](https://arxiv.org/abs/1805.10934)
+- [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
+- [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
 
-[*Back to top*](#top)
+[Back to top](#top)
 
 ## Efficient high order methods for wave propagation
 
@@ -42,12 +41,12 @@ One challenge for high order DG methods is the efficient, stable, and accurate i
 This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
 
 ### Selected relevant papers:
-- [*Weight-adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media*](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
-- [*Weight-adjusted discontinuous Galerkin methods: curvilinear meshes*](https://epubs.siam.org/doi/abs/10.1137/16M1089198)
-- [*Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media*](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
-- [*Multi-patch discontinuous Galerkin isogeometric analysis for wave propagation: Explicit time-stepping and efficient mass matrix inversion*](https://www.sciencedirect.com/science/article/pii/S0045782518300240)
+- [Weight-adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
+- [Weight-adjusted discontinuous Galerkin methods: curvilinear meshes](https://epubs.siam.org/doi/abs/10.1137/16M1089198)
+- [Weight‐adjusted discontinuous Galerkin methods: matrix‐valued weights and elastic wave propagation in heterogeneous media](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720)
+- [Multi-patch discontinuous Galerkin isogeometric analysis for wave propagation: Explicit time-stepping and efficient mass matrix inversion](https://www.sciencedirect.com/science/article/pii/S0045782518300240)
 
-Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for the two major computational steps in DG (computing volume and surface contributions). For a degree 4 approximation with piecewise constant media, this yields roughly a two times speedup over a competitive [*nodal DG*](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation. We have also introduced a low-complexity Bernstein-Bezier version of the weight-adjusted DG method for sub-cell heterogeneities. 
+Our group has also addressed computational costs for high order DG methods by reformulating the method in terms of Bernstein-Bezier polynomials (shown below), for which there exist yield low-complexity algorithms for the two major computational steps in DG (computing volume and surface contributions). For a degree 4 approximation with piecewise constant media, this yields roughly a two times speedup over a competitive [nodal DG](https://www.springer.com/us/book/9780387720654) code.  This increases to a six-fold speedup for a degree 9 approximation. We have also introduced a low-complexity Bernstein-Bezier version of the weight-adjusted DG method for sub-cell heterogeneities. 
 
 <img src="../files/ndg_vs_bbdg.png" width="800" />
 {% comment %}
@@ -57,11 +56,11 @@ Our group has also addressed computational costs for high order DG methods by re
 
 ### Selected relevant papers: 
 
-- [*Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media*](https://arxiv.org/abs/1808.08645)
-- [*GPU-accelerated Bernstein-Bezier discontinuous Galerkin methods for wave problems*](https://epubs.siam.org/doi/abs/10.1137/15M1053542)
+- [Bernstein-Bezier weight-adjusted discontinuous Galerkin methods for wave propagation in heterogeneous media](https://arxiv.org/abs/1808.08645)
+- [GPU-accelerated Bernstein-Bezier discontinuous Galerkin methods for wave problems](https://epubs.siam.org/doi/abs/10.1137/15M1053542)
 
 
-[*Back to top*](#top)
+[Back to top](#top)
 
 
 ## Finite element methods on hybrid meshes 
@@ -74,12 +73,12 @@ While it is generally straightforward to construct high order finite element spa
 
 ### Selected relevant papers: 
 
-- [*GPU-accelerated discontinuous Galerkin methods on hybrid meshes*](https://www.sciencedirect.com/science/article/pii/S0021999116300353)
-- [*A short note on a Bernstein-Bezier basis for the pyramid*](https://epubs.siam.org/doi/abs/10.1137/15M1036397?journalCode=sjoce3)
-- [*Orthogonal bases for vertex-mapped pyramids*](https://epubs.siam.org/doi/abs/10.1137/15M1011408)
-- [*A comparison of high order interpolation nodes for the pyramid*](https://epubs.siam.org/doi/abs/10.1137/141000105)
+- [GPU-accelerated discontinuous Galerkin methods on hybrid meshes](https://www.sciencedirect.com/science/article/pii/S0021999116300353)
+- [A short note on a Bernstein-Bezier basis for the pyramid](https://epubs.siam.org/doi/abs/10.1137/15M1036397?journalCode=sjoce3)
+- [Orthogonal bases for vertex-mapped pyramids](https://epubs.siam.org/doi/abs/10.1137/15M1011408)
+- [A comparison of high order interpolation nodes for the pyramid](https://epubs.siam.org/doi/abs/10.1137/141000105)
 
-[*Back to top*](#top)
+[Back to top](#top)
 
 {% include base_path %}
 
