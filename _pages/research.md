@@ -29,6 +29,7 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 ### Selected relevant papers:
 
+- [Efficient entropy stable Gauss collocation methods](https://arxiv.org/abs/1809.01178)
 - [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
 - [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
 
