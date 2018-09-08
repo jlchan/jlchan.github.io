@@ -43,7 +43,7 @@ One challenge for high order DG methods is the efficient, stable, and accurate i
 
 <img src="../files/wadg_example.png" width="900" />
 
-This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, Weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost when using a standard weighted finite element mass matrix.
+This approach has been extended to "matrix-valued" weights, with applications in elastic and poroelastic wave propagation.  We have also utilized weight-adjusted mass matrices to construct efficient and provably stable high order DG schemes on curved simplicial meshes, as well as on quadrilateral and hexahedral meshes for multi-patch DG isogeometric analysis. On tensor product elements, weight-adjusted mass matrices provide the additional benefit of re-exposing a Kronecker product structure which is lost for a standard weighted finite element mass matrix.
 
 ### Selected relevant papers:
 - [Weight-adjusted discontinuous Galerkin methods: wave propagation in heterogeneous media](https://epubs.siam.org/doi/abs/10.1137/16M1089186)
