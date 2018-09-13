@@ -18,6 +18,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## News:
 
+* September 2018: our paper "Leapfrog Time-stepping for Hermite methods", which describes a high order extension of the famous Yee-scheme for time-domain wave propagation, is available as an [arXiv preprint](https://arxiv.org/abs/1808.10481). 
 * August 2018: Kaihang Guo successfully defended his MA thesis on low-complexity GPU-accelerated DG methods for wave propagation in media with sub-cell heterogeneities. This work is available online in an [arXiv preprint](https://arxiv.org/abs/1808.08645).
 * August 2018: Jesse Chan is featured in the CAAM [video](https://www.youtube.com/watch?v=lMfHpvXGPAY) for the School of Engineering.
 * June 2018: our paper on [discretely entropy stable DG methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153) is now online. We show how to generalize the construction of discretely entropy stable methods to ``modal'' DG formulations. The resulting formulations extend semi-discrete entropy stability theory to arbitrary bases and standard finite element quadrature rules.
