@@ -16,7 +16,7 @@ Our group focuses on computational mechanics and the efficient numerical solutio
 
 We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
 
-## News:
+## Recent news:
 
 * September 2018: our preprint "Efficient entropy stable Gauss collocation schemes" is available as an [arXiv preprint](https://arxiv.org/abs/1809.01178). Entropy stable collocation-DG schemes on tensor product elements typically utilize Gauss-Lobatto quadratures. We extend entropy stable collocation schemes to more accurate Gauss quadratures, which improve error significantly on curved meshes. 
 * September 2018: our preprint "Leapfrog Time-stepping for Hermite methods", which describes a high order extension of the well-known Yee-scheme for time-domain wave propagation, is available as an [arXiv preprint](https://arxiv.org/abs/1808.10481). 
