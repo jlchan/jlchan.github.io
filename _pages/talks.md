@@ -13,8 +13,8 @@ author_profile: true
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
-* Weight-adjusted Bernstein-Bezier DG methods for wave propagation in heterogeneous media. October 2018. SIAM Texas-Louisiana Sectional Meeting. [Slides](../bbwadg_siam_latx_2018.pdf) 
-* Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws. (September 2018. Department of Mathematics, Purdue University). [Slides](../esdg_purdue_2018.pdf)
+* Weight-adjusted Bernstein-Bezier DG methods for wave propagation in heterogeneous media. October 2018. SIAM Texas-Louisiana Sectional Meeting. [Slides](../files/bbwadg_siam_latx_2018.pdf) 
+* Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws. (September 2018. Department of Mathematics, Purdue University). [Slides](../files/esdg_purdue_2018.pdf)
 * Entropy stable discontinuous Galerkin methods for nonlinear conservation laws. (August 2018, Dept. of Mechanical Engineering, Rice University).  [Slides](../files/esdg_mech_rice_2018.pdf)
 * Energy-based methods for time-dependent acoustic and elastic wave propagation (August 2018, BIRS Workshop on Numerical Analysis of Coupled and Multi-Physics Problems with Dynamic
 Interface, Oaxaca, Mexico).  [Video](https://www.birs.ca/events/2018/5-day-workshops/18w5077/videos/watch/201808021447-Chan.html)
