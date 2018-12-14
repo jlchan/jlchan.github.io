@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find a complete list of publications on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
+A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
 Selected preprints are also available on [arXiv](https://arxiv.org/) under "Jesse Chan".
 
 ### Selected papers

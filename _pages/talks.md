@@ -6,13 +6,15 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2018, December 7, Department of Applied Mathematics, Brown University.
 - 2019, February 25-March 1, SIAM CSE, Spokane, Washington. 
+- 2019, March 31-April 4, Finite elements in fluids, Chicago, Illinois.
 
 ## Recent talks
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+
+* Entropy stable schemes based on modal discontinuous Galerkin formulations. (December 2018. Department of Applied Mathematics, Brown University. [Slides](../files/esdg_brown_2018.pdf) 
 * Entropy stable discontinuous Galerkin methods for nonlinear conservation laws. (October 2018. Department of Mathematics, Rensselaer Polytechnic Institute (RPI). [Slides](../files/esdg_rpi_2018.pdf) 
 * Weight-adjusted Bernstein-Bezier DG methods for wave propagation in heterogeneous media. (October 2018. SIAM Texas-Louisiana Sectional Meeting). [Slides](../files/bbwadg_siam_latx_2018.pdf) 
 * Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws. (September 2018. Department of Mathematics, Purdue University). [Slides](../files/esdg_purdue_2018.pdf)
