@@ -9,7 +9,8 @@ author_profile: true
 
 Courses I have taught at Rice include:
 
-1. [CAAM 553: Numerical analysis I](https://www.caam.rice.edu/~caam553/repo/public_html/index.html) (Fall 2016-2018) 
+1. [CAAM 520: Computational Science II](https://www.caam.rice.edu/~caam520/) (Spring 2019)
+1. CAAM 553: Numerical analysis I (Fall 2016-2018) 
 1. CAAM 335: Matrix analysis (Spring 2014, 2018) 
 1. CAAM 336: Matrix analysis (Fall 2014, Spring 2015) 
 1. CAAM 552: Fundamentals of finite element methods (Spring 2017) 
