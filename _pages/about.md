@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-We have an open position for a [CAAM Pfieffer Postdoctoral Instructor](https://www.mathjobs.org/jobs/jobs/12232) (application through mathjobs.org). Please feel free to contact me for more information.
-
 ## Research interests: 
 
 Our group focuses on computational mechanics and the efficient numerical solution of partial differential equations. Recent work in this group has focused on provably stable and high ordeer accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on Graphics Processing Units (GPUs). 
