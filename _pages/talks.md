@@ -8,11 +8,11 @@ author_profile: true
 
 - 2019, February 25-March 1, SIAM CSE, Spokane, Washington. 
 - 2019, March 31-April 4, Finite elements in fluids, Chicago, Illinois.
+- 2019, June 3-5, NAHOMCON, San Diego, CA.
 
 ## Recent talks
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
-
 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (December 2018. Department of Applied Mathematics, Brown University. [Slides](../files/esdg_brown_2018.pdf) 
 * Entropy stable discontinuous Galerkin methods for nonlinear conservation laws. (October 2018. Department of Mathematics, Rensselaer Polytechnic Institute (RPI). [Slides](../files/esdg_rpi_2018.pdf) 
