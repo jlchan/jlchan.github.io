@@ -16,7 +16,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
-* February 2019: our preprint "Skew-symmetric entropy stable modal discontinuous Galerkin formulations" is as an [arXiv preprint](https://arxiv.org/abs/1902.01828). We relax construct DG formulations which retain entropy stability under relaxed quadrature accuracy, which are applicable to hybrid meshes with mixed element types. 
+* February 2019: our preprint "Skew-symmetric entropy stable modal discontinuous Galerkin formulations" is as an [arXiv preprint](https://arxiv.org/abs/1902.01828). We construct DG formulations which retain entropy stability under relaxed quadrature accuracy, which are applicable to hybrid meshes with mixed element types. 
 * September 2018: our preprint "Efficient entropy stable Gauss collocation schemes" is available as an [arXiv preprint](https://arxiv.org/abs/1809.01178). Entropy stable collocation-DG schemes on tensor product elements typically utilize Gauss-Lobatto quadratures. We extend entropy stable collocation schemes to more accurate Gauss quadratures, which improve error significantly on curved meshes. 
 * September 2018: our preprint "Leapfrog Time-stepping for Hermite methods", which describes a high order extension of the well-known Yee-scheme for time-domain wave propagation, is available as an [arXiv preprint](https://arxiv.org/abs/1808.10481). 
 * August 2018: Kaihang Guo successfully defended his MA thesis on low-complexity GPU-accelerated DG methods for wave propagation in media with sub-cell heterogeneities. This work is available online in an [arXiv preprint](https://arxiv.org/abs/1808.08645).
