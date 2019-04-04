@@ -6,14 +6,16 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, February 25-March 1, SIAM CSE, Spokane, Washington. 
-- 2019, March 31-April 4, Finite elements in fluids, Chicago, Illinois.
-- 2019, June 3-5, NAHOMCON, San Diego, CA.
+- 2019, June, NAHOMCON, San Diego, CA.
+- 2019, July, ICIAM, Valencia, Spain.
+- 2019, August, USNCCM, Austin, TX. 
 
 ## Recent talks
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Entropy stable schemes based on modal discontinuous Galerkin formulations. (April 2019. Finite elements in flow, Chicago, Illinois). [Slides](../files/esdg_fef_2019.pdf)) 
+* Entropy stable Gauss collocation discontinuous Galerkin methods. (March 2019. SIAM CSE, Spokane, Washington). [Slides](../files/esdg_cse_2019.pdf) 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (December 2018. Department of Applied Mathematics, Brown University. [Slides](../files/esdg_brown_2018.pdf) 
 * Entropy stable discontinuous Galerkin methods for nonlinear conservation laws. (October 2018. Department of Mathematics, Rensselaer Polytechnic Institute (RPI). [Slides](../files/esdg_rpi_2018.pdf) 
 * Weight-adjusted Bernstein-Bezier DG methods for wave propagation in heterogeneous media. (October 2018. SIAM Texas-Louisiana Sectional Meeting). [Slides](../files/bbwadg_siam_latx_2018.pdf) 
