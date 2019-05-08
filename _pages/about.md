@@ -16,7 +16,10 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* April 2019: our preprint "A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities" is available as an [arXiv preprint](https://arxiv.org/abs/1904.02578). We introduce provably stable high order DG methods for wave propagation in poroelastic media. Attractive features of the scheme include resolution of sub-cell micro-heterogeneities and simple upwind-like penalty flux terms.
 * February 2019: our preprint "Skew-symmetric entropy stable modal discontinuous Galerkin formulations" is as an [arXiv preprint](https://arxiv.org/abs/1902.01828). We construct DG formulations which retain entropy stability under relaxed quadrature accuracy, which are applicable to hybrid meshes with mixed element types. 
+
+{% comment %}
 * September 2018: our preprint "Efficient entropy stable Gauss collocation schemes" is available as an [arXiv preprint](https://arxiv.org/abs/1809.01178). Entropy stable collocation-DG schemes on tensor product elements typically utilize Gauss-Lobatto quadratures. We extend entropy stable collocation schemes to more accurate Gauss quadratures, which improve error significantly on curved meshes. 
 * September 2018: our preprint "Leapfrog Time-stepping for Hermite methods", which describes a high order extension of the well-known Yee-scheme for time-domain wave propagation, is available as an [arXiv preprint](https://arxiv.org/abs/1808.10481). 
 * August 2018: Kaihang Guo successfully defended his MA thesis on low-complexity GPU-accelerated DG methods for wave propagation in media with sub-cell heterogeneities. This work is available online in an [arXiv preprint](https://arxiv.org/abs/1808.08645).
@@ -25,4 +28,4 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 * May 2018: our paper on [explicit time-stepping isogeometric methods](https://www.sciencedirect.com/science/article/pii/S0045782518300240) is now online. In this paper, we show how to efficiently combine isogeometric finite elements with explicit time-stepping while avoiding the inversion of a dense mass matrix. These methods also have the advantage of a better CFL constant at high orders of approximation.
 * Jan 2018: Kaihang Guo receives the [K2i fellowship](https://caamweb.rice.edu/news/k2i-fellowships-2017) from the Ken Kennedy Institute.
 * Jan 2018: our paper on [provably stable DG methods for elasticity with sub-cell heterogeneities](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.5720) is available online. This work extends the "weight-adjusted mass matrix" (generalized mass lumping) to matrix-valued weights and applies it to elastic wave propagation. By factoring material coefficients into the mass matrix, we simplify the formulation of stable DG methods for both isotropic and anisotropic media.
-
+{% endcomment %}
