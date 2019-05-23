@@ -14,7 +14,7 @@ author_profile: true
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
-* Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). {% [Slides](../files/esdg_fef_2019.pdf) %}
+* Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (April 2019. Finite elements in flow, Chicago, Illinois). [Slides](../files/esdg_fef_2019.pdf)
 * Entropy stable Gauss collocation discontinuous Galerkin methods. (March 2019. SIAM CSE, Spokane, Washington). [Slides](../files/esdg_cse_2019.pdf)
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (December 2018. Department of Applied Mathematics, Brown University. [Slides](../files/esdg_brown_2018.pdf) 
