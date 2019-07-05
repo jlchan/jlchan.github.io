@@ -6,7 +6,6 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, June, NAHOMCON, San Diego, CA.
 - 2019, July, ICIAM, Valencia, Spain.
 - 2019, August, USNCCM, Austin, TX. 
 
