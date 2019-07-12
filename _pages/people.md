@@ -32,7 +32,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Undergraduate students:
 
-* **Jacob Engel**: Summer 2019. Stable finite volume schemes for Burgers' equation on networks. 
+* **Jacob Engel**: Summer 2019. Stable finite volume schemes on networks. 
 
 ## Visiting students:
 
