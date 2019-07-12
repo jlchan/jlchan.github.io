@@ -27,6 +27,9 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 * **Kyle Busse**: 2019-present, PhD student. High order entropy stable schemes for compressible flow.
 * **Philip Wu**: 2019-present, PhD student. High order entropy stable schemes for the shallow water equations.
 
+## Postdoctoral Researchers:
+* **Mario Bencomo**: 2019-present. 
+
 ## Undergraduate students:
 
 * **Jacob Engel**: Summer 2019. Stable finite volume schemes for Burgers' equation on networks. 
