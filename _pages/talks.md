@@ -6,13 +6,14 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, July, ICIAM, Valencia, Spain.
 - 2019, August, USNCCM, Austin, TX. 
+- 2019, September, ORNL, Oak Ridge, TN.
 
 ## Recent talks
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Entropy stable reduced order modeling for nonlinear conservation laws (July 2019. Valencia, Spain).
 * Modal formulations of entropy stable discontinuous Galerkin methods (June 2019. NAHOMCon, San Diego). 
 * Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (April 2019. Finite elements in flow, Chicago, Illinois). [Slides](../files/esdg_fef_2019.pdf)
