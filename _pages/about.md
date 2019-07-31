@@ -20,6 +20,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 * July 2019: Jesse Chan and Kaihang Guo present at USNCCM 2019 in Austin, TX.
 * July 2019: our paper ["Efficient entropy stable Gauss collocation methods"](https://arxiv.org/abs/1809.01178) was accepted to the SIAM Journal on Scientific Computing.
 * July 2019: Jesse Chan presents at ICIAM 2019 in Valencia, Spain.
+* June 2019: Jesse Chan gave a talk at the R-STEM ConocoPhillips Applied Mathematics Program (AMP!).
 * June 2019: Jesse Chan presents at NAHOM 2019 in San Diego, CA
 * May 2019: our preprint "A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media" is available as an [arXiv preprint](https://arxiv.org/abs/1905.09145), and introduces a new provably stable high order DG methods for wave propagation in coupled acoustic-elastic media. As with previous weight-adjusted DG papers, the method is time-explicit, high order accurate, and applicable to sub-cell micro heterogeneities, anisotropic media, and curved meshes.
 * April 2019: Jesse Chan presents at the GMIG project review.
