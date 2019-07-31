@@ -13,7 +13,8 @@ author_profile: true
 
 Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
-* Entropy stable reduced order modeling for nonlinear conservation laws (July 2019. Valencia, Spain).
+* Discretely entropy stable discontinuous Galerkin methods for the shallow water equations (July 31, USNCCM, Austin, TX)
+* Entropy stable reduced order modeling for nonlinear conservation laws (July 2019, ICIAM, Valencia, Spain).
 * Modal formulations of entropy stable discontinuous Galerkin methods (June 2019. NAHOMCon, San Diego). 
 * Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (April 2019. Finite elements in flow, Chicago, Illinois). [Slides](../files/esdg_fef_2019.pdf)
