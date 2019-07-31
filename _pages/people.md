@@ -40,7 +40,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Former members: 
 
-* **Nigel Tan**: 2018-present, MA student. Efficient implementation of high order entropy stable discontinuous Galerkin methods.
+* **Nigel Tan**: 2018-2019, MA student. Efficient implementation of high order entropy stable discontinuous Galerkin methods.
 * **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Discontinuous Galerkin methods for the shallow water equations.
 * **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
 * **Eva (Chen) Chen**: Spring 2017, Rice undergraduate (CAAM). Photoacoustic tomography (PAT) using finite difference methods.
