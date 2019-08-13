@@ -6,8 +6,8 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, September, ORNL, Oak Ridge, TN.
-- 2019, November, SIAM LA-TX, Dallas, TX. 
+- 2019, September 4-6, ORNL, Oak Ridge, TN.
+- 2019, November 1-3, SIAM LA-TX, Dallas, TX. 
 
 ## Recent talks
 
