@@ -6,12 +6,12 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, August, USNCCM, Austin, TX. 
 - 2019, September, ORNL, Oak Ridge, TN.
+- 2019, November, SIAM LA-TX, Dallas, TX. 
 
 ## Recent talks
 
-Below are recent talks, with accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
+Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
 * Discretely entropy stable discontinuous Galerkin methods for the shallow water equations (July 31, USNCCM, Austin, TX)
 * Entropy stable reduced order modeling for nonlinear conservation laws (July 2019, ICIAM, Valencia, Spain).
