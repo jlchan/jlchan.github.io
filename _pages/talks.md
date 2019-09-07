@@ -6,14 +6,14 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, September 4-6, ORNL, Oak Ridge, TN.
 - 2019, November 1-3, SIAM LA-TX, Dallas, TX. 
 
 ## Recent talks
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
-* Discretely entropy stable discontinuous Galerkin methods for the shallow water equations (July 31, USNCCM, Austin, TX)
+* Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (September 2019, ORNL, Oak Ridge, TN).
+* Discretely entropy stable discontinuous Galerkin methods for the shallow water equations (July 2019, USNCCM, Austin, TX)
 * Entropy stable reduced order modeling for nonlinear conservation laws (July 2019, ICIAM, Valencia, Spain).
 * Modal formulations of entropy stable discontinuous Galerkin methods (June 2019. NAHOMCon, San Diego). 
 * Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). 
