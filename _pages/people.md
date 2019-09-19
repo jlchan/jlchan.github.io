@@ -23,16 +23,17 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Graduate students:
 
-* **Kaihang Guo**: 2017-present, PhD student. High order discontinuous Galerkin methods for wave propagation.
-* **Kyle Busse**: 2019-present, PhD student. High order entropy stable schemes for compressible flow.
+* **Kaihang Guo**: 2017-present, PhD student. Stable and efficient high order discontinuous Galerkin methods for wave propagation.
 * **Philip Wu**: 2019-present, PhD student. High order entropy stable schemes for the shallow water equations.
+* **Kyle Busse**: 2019-present, PhD student. High order entropy stable schemes for compressible flow.
 
 ## Postdoctoral Researchers:
+
 * **Mario Bencomo**: 2019-present. 
 
+{% comment %}
 ## Undergraduate students:
-
-* **Jacob Engel**: Summer 2019. Stable finite volume schemes on networks. 
+{% endcomment %}
 
 ## Visiting students:
 
@@ -40,6 +41,7 @@ Assistant Professor (2016-present), [Department of Computational and Applied Mat
 
 ## Former members: 
 
+* **Jacob Engel**: Summer 2019, Rice undergraduate (CAAM). Stable finite volume schemes on networks. 
 * **Nigel Tan**: 2018-2019, MA student. Efficient implementation of high order entropy stable discontinuous Galerkin methods.
 * **Matt Schwartz**: Summer 2018, Rice undergraduate (Physics). Discontinuous Galerkin methods for the shallow water equations.
 * **Joey Munar**: Summer 2017, Rice undergraduate (CAAM). Fekete points for B-splines.
