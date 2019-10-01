@@ -16,6 +16,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* September 2019: our preprint "Entropy stable reduced order modeling of nonlinear conservation laws" is available as an [arXiv preprint](https://arxiv.org/abs/1909.09103).
 * September 2019: Jesse Chan gave a talk to the Computational and Applied Mathematics group at ORNL in Oak Ridge, TN. 
 * August 2019: our paper ["Skew-symmetric entropy stable modal discontinuous Galerkin formulations"](https://arxiv.org/abs/1902.01828) was accepted to the Journal of Scientific Computing.
 * July 2019: Jesse Chan and Kaihang Guo give talks at USNCCM 2019 in Austin, TX.
