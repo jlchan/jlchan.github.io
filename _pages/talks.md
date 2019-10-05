@@ -6,7 +6,8 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, November 1-3, SIAM LA-TX, Dallas, TX. 
+- 2019, November 1-3, SIAM LA-TX, Dallas, TX.
+- 2019, December 3, University of Toronto, Toronto, Ontario, CN.
 
 ## Recent talks
 
