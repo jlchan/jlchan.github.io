@@ -29,6 +29,7 @@ Below is a plot of density at times .3 and .7 for a horizontally periodic versio
 
 ### Selected relevant papers:
 
+- [Entropy stable reduced order modeling of nonlinear conservation laws](https://arxiv.org/abs/1909.09103)
 - [Skew-symmetric entropy stable modal discontinuous Galerkin formulations](https://arxiv.org/abs/1902.01828)
 - [Efficient entropy stable Gauss collocation methods](https://arxiv.org/abs/1809.01178)
 - [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
