@@ -8,9 +8,7 @@ author_profile: true
 redirect_from: 
 ---
 
-## Jesse Chan
-
-Assistant Professor (2016-present), [Department of Computational and Applied Mathematics](http://www.caam.rice.edu)
+* **Jesse Chan**: Assistant Professor (2016-present), [Department of Computational and Applied Mathematics](http://www.caam.rice.edu)
 
 **Education and Other Appointments:**
 
