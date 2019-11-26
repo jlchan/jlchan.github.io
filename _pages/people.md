@@ -8,7 +8,8 @@ author_profile: true
 redirect_from: 
 ---
 
-# Jesse Chan 
+
+## Jesse Chan 
 
 Assistant Professor (2016-present), Department of Computational and Applied Mathematics.
 
