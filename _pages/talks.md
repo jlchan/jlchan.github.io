@@ -6,7 +6,6 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2019, November 1-3, SIAM LA-TX, Dallas, TX. 
 - 2019, Dec 3, University of Toronto Institute for Aerospace Studies, Toronto, CN. 
 
 ## Recent talks

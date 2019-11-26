@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Research interests: 
-
 Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on Graphics Processing Units (GPUs). 
 
 We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
