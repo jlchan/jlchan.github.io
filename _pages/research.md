@@ -12,7 +12,10 @@ Most of our work falls into three main areas:
 - [Wave propagation in complex heterogeneous media](#efficient-high-order-methods-for-wave-propagation)
 - [Finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes)
 
-You can find a complete list of publications on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
+We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
+
+A complete list of publications are available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/) or [CV](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
+
 
 ## Entropy stable methods for nonlinear conservation laws
 
