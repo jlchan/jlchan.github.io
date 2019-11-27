@@ -7,6 +7,7 @@ author_profile: true
 ## Upcoming talks
 
 - 2019, Dec 3, University of Toronto Institute for Aerospace Studies, Toronto, CN. 
+- 2020, Jan 16, University of Houston, Department of Mathematics, Houston, TX. 
 
 ## Recent talks
 
