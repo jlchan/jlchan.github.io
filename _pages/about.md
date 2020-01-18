@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* January 2019: Jesse Chan received an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943186) from the Division of Mathematical Sciences Comp. Math program.
 * December 2019: Jesse Chan gave a talk at the University of Toronto Institute of Aerospace (UTIAS).
 * November 2019: graduate students Kaihang Guo and Philip Wu presented work on wave propagation in acoustic-elastic media and entropy stable schemes for the shallow water equations at the SIAM LA-TX sectional meeting in Dallas, TX.
 * October 2019: our paper ["A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities"](https://www.sciencedirect.com/science/article/pii/S0021999119307661) has been accepted to the Journal of Computational Physics.
