@@ -6,12 +6,14 @@ author_profile: true
 
 ## Upcoming talks
 
-- 2020, Jan 16, University of Houston, Department of Mathematics, Houston, TX. 
+* SIAM Annual 2020, Toronto, CN
+* WCCM-ECCOMAS 2020
 
 ## Recent talks
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (Jan 2020, UH, Houston, TX).
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (December 2019, UTIAS, Toronto, Canada).
 * Entropy stable reduced order modeling for nonlinear conservation laws (September 2019, CAAM colloquium, Rice University, Houston, TX).
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (September 2019, ORNL, Oak Ridge, TN).
