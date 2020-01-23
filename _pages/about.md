@@ -10,9 +10,6 @@ redirect_from:
 
 Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on Graphics Processing Units (GPUs). 
 
-A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
-Selected preprints are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Chan%2C+Jesse&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) under "Jesse Chan".
-
 We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
 
 ## Recent news:
