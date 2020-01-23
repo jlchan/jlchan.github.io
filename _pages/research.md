@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
+Selected preprints are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Chan%2C+Jesse&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) under "Jesse Chan".
+
 Our research focuses primarily on high order numerical methods for both linear and nonlinear hyperbolic partial differential equations (PDEs) which are provably reliable and efficient. An advantage of high order methods for time-dependent hyperbolic PDEs is their low numerical dispersion and dissipation compared to low order methods, which allows for the high-fidelity propagation of waves, vortices, and subgrid features over long time and length scales. 
 
 Most of our work falls into three main areas: 
@@ -13,8 +16,6 @@ Most of our work falls into three main areas:
 - [Finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes)
 
 We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
-
-A complete list of publications are available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/) or [CV](../files/jcv.pdf). Selected preprints are also available on arXiv under "Jesse Chan".
 
 
 ## Entropy stable methods for nonlinear conservation laws

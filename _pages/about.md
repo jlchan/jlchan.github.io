@@ -10,13 +10,16 @@ redirect_from:
 
 Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on Graphics Processing Units (GPUs). 
 
+A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
+Selected preprints are also available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Chan%2C+Jesse&terms-0-field=author&classification-mathematics=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) under "Jesse Chan".
+
 We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
 
 ## Recent news:
 
 * January 2020: Jesse Chan received an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943186) from the Division of Mathematical Sciences Comp. Math program.
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra:barycentric coordinates". More information [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
-<img src="../files/amp.jpg" width="700" />
+<img src="../files/amp.jpg" width="650" />
 * January 2020: Jesse Chan gave a talk at the University of Houston Dept. of Mathematics. 
 * December 2019: Jesse Chan gave a talk at the University of Toronto Institute of Aerospace (UTIAS).
 * November 2019: graduate students Kaihang Guo and Philip Wu presented work on wave propagation in acoustic-elastic media and entropy stable schemes for the shallow water equations at the SIAM LA-TX sectional meeting in Dallas, TX.
