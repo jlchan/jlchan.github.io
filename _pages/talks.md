@@ -13,13 +13,15 @@ author_profile: true
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
-* Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (Jan 2020, UH, Houston, TX).
+* Applications of geometry and algebra:  Barycentric coordinates (Jan 2020, ConocoPhilips Applied Mathematics Program AMP!, Houston, TX). [Slides](../files/amp2020.pdf)
+* Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (Jan 2020, UH, Houston, TX). [Slides](../files/uh2020.pdf)
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (December 2019, UTIAS, Toronto, Canada).
 * Entropy stable reduced order modeling for nonlinear conservation laws (September 2019, CAAM colloquium, Rice University, Houston, TX).
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (September 2019, ORNL, Oak Ridge, TN).
 * Discretely entropy stable discontinuous Galerkin methods for the shallow water equations (July 2019, USNCCM, Austin, TX)
 * Entropy stable reduced order modeling for nonlinear conservation laws (July 2019, ICIAM, Valencia, Spain).
 * Modal formulations of entropy stable discontinuous Galerkin methods (June 2019. NAHOMCon, San Diego). 
+* Computational modeling and mathematics (June 2019, ConocoPhilips Applied Mathematics Program AMP!, Houston, TX)
 * Discretely entropy stable discretizations for nonlinear conservation laws: high order finite elements and reduced order modeling (April 2019. GMIG project review). 
 * Entropy stable schemes based on modal discontinuous Galerkin formulations. (April 2019. Finite elements in flow, Chicago, Illinois). [Slides](../files/esdg_fef_2019.pdf)
 * Entropy stable Gauss collocation discontinuous Galerkin methods. (March 2019. SIAM CSE, Spokane, Washington). [Slides](../files/esdg_cse_2019.pdf)
@@ -52,11 +54,5 @@ Interface, Oaxaca, Mexico).  [Video](https://www.birs.ca/events/2018/5-day-works
 * Efficient time-domain discontinuous Galerkin methods for wave propagation (March 2017, University of Texas at Austin, Austin, TX).  [Slides](../files/wadg_ices_ut_2017.pdf)
 * Weight-adjusted discontinuous Galerkin methods for heterogeneous media and curvilinear meshes (SIAM Conference on Computational Science and Engineering, February 2017, Atlanta, GA).  [Slides](../files/wadg_cse_atlanta_2017.pdf)
 
-
 {% comment %} 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 {% endcomment %}
