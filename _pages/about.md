@@ -14,11 +14,10 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
-* January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra:barycentric coordinates". 
+* January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra:barycentric coordinates". More info [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 <p float="left">
 <img src="../files/amp.jpg" width="900" />
 </p>
-More info [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 * January 2020: Jesse Chan received an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943186) from the Division of Mathematical Sciences Comp. Math program.
 * January 2020: Jesse Chan gave a talk at the University of Houston Dept. of Mathematics. 
 * December 2019: Jesse Chan gave a talk at the University of Toronto Institute of Aerospace (UTIAS).
