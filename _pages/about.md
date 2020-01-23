@@ -16,7 +16,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 * January 2020: Jesse Chan received an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943186) from the Division of Mathematical Sciences Comp. Math program.
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra:barycentric coordinates". More info [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
-<p float="left">
+<p float="right">
 <img src="../files/amp.jpg" width="700" />
 </p>
 * January 2020: Jesse Chan gave a talk at the University of Houston Dept. of Mathematics. 
