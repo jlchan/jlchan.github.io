@@ -6,6 +6,7 @@ author_profile: true
 
 ## Upcoming talks
 
+* Rice Oil and Gas HPC Conference 2020, Houston, TX
 * SIAM Annual 2020, Toronto, CN
 * WCCM-ECCOMAS 2020
 
