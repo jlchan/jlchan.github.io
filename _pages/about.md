@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* March 2020: Jesse Chan gives a plenary talk on "Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media" at the Rice Oil and Gas HPC conference. 
 * January 2020: Jesse Chan received an [NSF CAREER award](https://engineering.rice.edu/news/jesse-chan-ang-chen-receive-nsf-career-awards) from the Division of Mathematical Sciences Comp. Math program. 
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra: barycentric coordinates". More information [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 <img src="../files/amp.jpg" width="650" />
@@ -30,10 +31,10 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 * June 2019: Jesse Chan gave a talk at the R-STEM ConocoPhillips Applied Mathematics Program (AMP!).
 * June 2019: Jesse Chan gave a talk at NAHOM 2019 in San Diego, CA.
 * May 2019: our preprint "A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media" is available as an [arXiv preprint](https://arxiv.org/abs/1905.09145), and introduces a new provably stable high order DG methods for wave propagation in coupled acoustic-elastic media. As with previous weight-adjusted DG papers, the method is time-explicit, high order accurate, and applicable to sub-cell micro heterogeneities, anisotropic media, and curved meshes.
-* April 2019: Jesse Chan gave a talk at the GMIG project review.
-* April 2019: our preprint "A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities" is available as an [arXiv preprint](https://arxiv.org/abs/1904.02578). We introduce provably stable high order DG methods for wave propagation in poroelastic media. Attractive features of the scheme include resolution of sub-cell micro-heterogeneities and simple upwind-like penalty flux terms.
 
 {% comment %}
+* April 2019: Jesse Chan gave a talk at the GMIG project review.
+* April 2019: our preprint "A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities" is available as an [arXiv preprint](https://arxiv.org/abs/1904.02578). We introduce provably stable high order DG methods for wave propagation in poroelastic media. Attractive features of the scheme include resolution of sub-cell micro-heterogeneities and simple upwind-like penalty flux terms.
 * February 2019: our preprint "Skew-symmetric entropy stable modal discontinuous Galerkin formulations" is as an [arXiv preprint](https://arxiv.org/abs/1902.01828). We construct DG formulations which retain entropy stability under relaxed quadrature accuracy, which are applicable to hybrid meshes with mixed element types. 
 * September 2018: our preprint "Efficient entropy stable Gauss collocation schemes" is available as an [arXiv preprint](https://arxiv.org/abs/1809.01178). Entropy stable collocation-DG schemes on tensor product elements typically utilize Gauss-Lobatto quadratures. We extend entropy stable collocation schemes to more accurate Gauss quadratures, which improve error significantly on curved meshes. 
 * September 2018: our preprint "Leapfrog Time-stepping for Hermite methods", which describes a high order extension of the well-known Yee-scheme for time-domain wave propagation, is available as an [arXiv preprint](https://arxiv.org/abs/1808.10481). 
