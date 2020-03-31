@@ -14,7 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
-* March 2020: Jesse Chan gives a plenary talk on "Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media" at the Rice Oil and Gas HPC conference. 
+* March 2020: Jesse Chan gives a plenary talk on "Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media" at the [Rice Oil and Gas HPC conference](https://kenkennedy.rice.edu/news/2020-rice-oil-gas-high-performance-computing-draws-leaders-oil-and-gas-high-performance). 
 * January 2020: Jesse Chan received an [NSF CAREER award](https://engineering.rice.edu/news/jesse-chan-ang-chen-receive-nsf-career-awards) from the Division of Mathematical Sciences Comp. Math program. 
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra: barycentric coordinates". More information [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 <img src="../files/amp.jpg" width="650" />
