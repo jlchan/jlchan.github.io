@@ -13,6 +13,7 @@ author_profile: true
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media (April 2020, Electromagnetics seminar, University of Houston, Houston, TX). [Slides](../files/uh2020.pdf)
 * Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media (March 2020, Rice Oil and Gas HPC Conference 2020, Houston, TX). [Slides](../files/oghpc2020.pdf)
 * Applications of geometry and algebra:  Barycentric coordinates (Jan 2020, ConocoPhilips Applied Mathematics Program AMP!, Houston, TX). [Slides](../files/amp2020.pdf)
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (Jan 2020, UH, Houston, TX). [Slides](../files/uh2020.pdf)
