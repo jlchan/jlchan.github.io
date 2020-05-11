@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* May 2020: our preprint [Mortar-based entropy-stable discontinuous Galerkin methods on non-conforming quadrilateral and hexahedral meshes](https://arxiv.org/abs/2005.03237) is now available on arXiv. We derive a new high order accurate and entropy stable non-conforming interface treatment which utilizes specific intermediate mortar layers to reduces computational cost.
+* May 2020: our preprint [High-order entropy stable discontinuous Galerkin methods for the shallow water equations: curved triangular meshes and GPU acceleration](https://arxiv.org/abs/2005.02516) is now available on arXiv. 
 * April 2020: graduate student Philip Wu successfully defends his MA thesis.
 * April 2020: Jesse Chan gives an online talk for the Electromagnetics Seminar in the Department of Electrical and Computer Engineering at University of Houston.
 * March 2020: Jesse Chan gives a plenary talk on "Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media" at the [Rice Oil and Gas HPC conference](https://kenkennedy.rice.edu/news/2020-rice-oil-gas-high-performance-computing-draws-leaders-oil-and-gas-high-performance). 
