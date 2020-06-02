@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
+* June 2020: our paper ["A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media"](https://arxiv.org/abs/1905.09145) was accepted to JCP.
 * May 2020: our preprint [Mortar-based entropy-stable discontinuous Galerkin methods on non-conforming quadrilateral and hexahedral meshes](https://arxiv.org/abs/2005.03237) is now available on arXiv. We derive a new high order accurate and entropy stable non-conforming interface treatment which utilizes specific intermediate mortar layers to reduces computational cost.
 * May 2020: our preprint [High-order entropy stable discontinuous Galerkin methods for the shallow water equations: curved triangular meshes and GPU acceleration](https://arxiv.org/abs/2005.02516) is now available on arXiv. 
 * April 2020: graduate student Philip Wu successfully defends his MA thesis.
@@ -34,9 +35,9 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 * July 2019: Jesse Chan gave a talk at ICIAM 2019 in Valencia, Spain.
 * June 2019: Jesse Chan gave a talk at the R-STEM ConocoPhillips Applied Mathematics Program (AMP!).
 * June 2019: Jesse Chan gave a talk at NAHOM 2019 in San Diego, CA.
-* May 2019: our preprint "A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media" is available as an [arXiv preprint](https://arxiv.org/abs/1905.09145), and introduces a new provably stable high order DG methods for wave propagation in coupled acoustic-elastic media. As with previous weight-adjusted DG papers, the method is time-explicit, high order accurate, and applicable to sub-cell micro heterogeneities, anisotropic media, and curved meshes.
 
 {% comment %}
+* May 2019: our preprint "A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media" is available as an [arXiv preprint](https://arxiv.org/abs/1905.09145), and introduces a new provably stable high order DG methods for wave propagation in coupled acoustic-elastic media. As with previous weight-adjusted DG papers, the method is time-explicit, high order accurate, and applicable to sub-cell micro heterogeneities, anisotropic media, and curved meshes.
 * April 2019: Jesse Chan gave a talk at the GMIG project review.
 * April 2019: our preprint "A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities" is available as an [arXiv preprint](https://arxiv.org/abs/1904.02578). We introduce provably stable high order DG methods for wave propagation in poroelastic media. Attractive features of the scheme include resolution of sub-cell micro-heterogeneities and simple upwind-like penalty flux terms.
 * February 2019: our preprint "Skew-symmetric entropy stable modal discontinuous Galerkin formulations" is as an [arXiv preprint](https://arxiv.org/abs/1902.01828). We construct DG formulations which retain entropy stability under relaxed quadrature accuracy, which are applicable to hybrid meshes with mixed element types. 
