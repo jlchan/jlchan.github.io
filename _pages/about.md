@@ -14,7 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) i
 
 ## Recent news:
 
-* June 2020: our paper ["A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media"](https://www.sciencedirect.com/science/article/pii/S002199912030406X) was accepted to JCP.
+* June 2020: our paper ["A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media"](https://www.sciencedirect.com/science/article/pii/S002199912030406X) was accepted to JCP and is now online.
 * May 2020: our preprint [Mortar-based entropy-stable discontinuous Galerkin methods on non-conforming quadrilateral and hexahedral meshes](https://arxiv.org/abs/2005.03237) is now available on arXiv. We derive a new high order accurate and entropy stable non-conforming interface treatment which utilizes specific intermediate mortar layers to reduces computational cost.
 * May 2020: our preprint [High-order entropy stable discontinuous Galerkin methods for the shallow water equations: curved triangular meshes and GPU acceleration](https://arxiv.org/abs/2005.02516) is now available on arXiv. 
 * April 2020: graduate student Philip Wu successfully defends his MA thesis.
