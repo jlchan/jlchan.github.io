@@ -26,7 +26,10 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 * [**Kaihang Guo**](https://scholar.google.com/citations?user=fgK0xnYAAAAJ&hl=en): 2017-present, PhD student. Stable and efficient high order discontinuous Galerkin methods for wave propagation.
 * **Philip Wu**: 2019-present, PhD student. High order entropy stable schemes for the shallow water equations on triangular meshes.
-* **Kyle Busse**: 2019-present, PhD student. High order entropy stable schemes for compressible flow.
+* **Kyle Busse**: 2019-present, PhD student. High order entropy stable spectral methods. 
+* **Christina Taylor**: 2020-present, PhD student. High order entropy stable schemes.
+* **Yimin Lin**: 2020-present, PhD student. High order entropy stable schemes.
+
 
 ## Postdoctoral Researchers:
 
