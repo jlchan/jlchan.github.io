@@ -32,11 +32,11 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 * September 2019: our preprint "Entropy stable reduced order modeling of nonlinear conservation laws" is available as an [arXiv preprint](https://arxiv.org/abs/1909.09103).
 * September 2019: Jesse Chan gave a talk to the Computational and Applied Mathematics group at ORNL in Oak Ridge, TN. 
 * August 2019: our paper ["Skew-symmetric entropy stable modal discontinuous Galerkin formulations"](https://arxiv.org/abs/1902.01828) was accepted to the Journal of Scientific Computing.
+
+{% comment %}
 * July 2019: Jesse Chan and Kaihang Guo give talks at USNCCM 2019 in Austin, TX.
 * July 2019: our paper ["Efficient entropy stable Gauss collocation methods"](https://arxiv.org/abs/1809.01178) with David C. Del Rey Fernandez and Mark C. Carpenter was accepted to the SIAM Journal on Scientific Computing.
 * July 2019: Jesse Chan gave a talk at ICIAM 2019 in Valencia, Spain.
-
-{% comment %}
 * June 2019: Jesse Chan gave a talk at the R-STEM ConocoPhillips Applied Mathematics Program (AMP!).
 * June 2019: Jesse Chan gave a talk at NAHOM 2019 in San Diego, CA.
 * May 2019: our preprint "A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media" is available as an [arXiv preprint](https://arxiv.org/abs/1905.09145), and introduces a new provably stable high order DG methods for wave propagation in coupled acoustic-elastic media. As with previous weight-adjusted DG papers, the method is time-explicit, high order accurate, and applicable to sub-cell micro heterogeneities, anisotropic media, and curved meshes.
