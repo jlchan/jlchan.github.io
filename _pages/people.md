@@ -33,7 +33,7 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Postdoctoral Researchers:
 
-* [**Mario Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-present. 
+* [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-present. 
 
 {% comment %}
 ## Undergraduate students:
