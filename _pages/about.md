@@ -26,14 +26,15 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra: barycentric coordinates". More information [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 <img src="../files/amp.jpg" width="650" />
 * January 2020: Jesse Chan gave a talk at the University of Houston Dept. of Mathematics. 
+{% comment %}
+
+
 * December 2019: Jesse Chan gave a talk at the University of Toronto Institute of Aerospace (UTIAS).
 * November 2019: graduate students Kaihang Guo and Xinhui (Philip) Wu presented work on wave propagation in acoustic-elastic media and entropy stable schemes for the shallow water equations at the SIAM LA-TX sectional meeting in Dallas, TX.
 * October 2019: our paper ["A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities"](https://www.sciencedirect.com/science/article/pii/S0021999119307661) with Khemraj Shukla, Maarten V. de Hoop, and Priyank Jaiswal has been accepted to the Journal of Computational Physics.
 * September 2019: our preprint "Entropy stable reduced order modeling of nonlinear conservation laws" is available as an [arXiv preprint](https://arxiv.org/abs/1909.09103).
 * September 2019: Jesse Chan gave a talk to the Computational and Applied Mathematics group at ORNL in Oak Ridge, TN. 
 * August 2019: our paper ["Skew-symmetric entropy stable modal discontinuous Galerkin formulations"](https://arxiv.org/abs/1902.01828) was accepted to the Journal of Scientific Computing.
-
-{% comment %}
 * July 2019: Jesse Chan and Kaihang Guo give talks at USNCCM 2019 in Austin, TX.
 * July 2019: our paper ["Efficient entropy stable Gauss collocation methods"](https://arxiv.org/abs/1809.01178) with David C. Del Rey Fernandez and Mark C. Carpenter was accepted to the SIAM Journal on Scientific Computing.
 * July 2019: Jesse Chan gave a talk at ICIAM 2019 in Valencia, Spain.
