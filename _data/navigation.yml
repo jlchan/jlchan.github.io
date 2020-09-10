@@ -15,8 +15,8 @@ main:
   - title: "Software"
     url: /software/
     
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
     
   - title: "CV"
     url: /cv/    
