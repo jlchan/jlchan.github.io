@@ -31,7 +31,7 @@ Below is a plot of density (with [Tim Warburton](https://www.paranumal.com/) at 
 #<img src="../files/shockvortex.png" width="900" />
 {% endcomment %}
 <p float="left">
-<img src="../files/CNS_cyl.png" width="900" />
+<img src="../files/CNS_cyl.png" width="850" />
 </p>
 
 
