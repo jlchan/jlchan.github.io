@@ -26,8 +26,10 @@ Discretely entropy stable methods restore stability while maintaining high order
 
 Below is a plot of density (with [Tim Warburton](https://www.paranumal.com/) at Virginia Tech) for flow over a cylinder computed using a 4th order entropy stable DG method on an unstructured triangular mesh at Mach 1.5 and Reynolds number 10000. No regularization is applied apart from Lax-Friedrichs interface dissipation, yet the solution remains stable in the presence of shocks. 
 
+{% comment %}
 #Below is a plot of density at times .3 and .7 for a horizontally periodic version of a compressible inviscid weak shock-vortex interaction from [Shu (1998)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf). The solution is computed using an entropy stable method on a quadrilateral mesh of 100-by-50 elements of polynomial degree 4. No regularization is applied apart from a consistent [interface dissipation](https://www.sciencedirect.com/science/article/pii/S0021999116306477), yet the solution remains stable in the presence of the shock. 
 #<img src="../files/shockvortex.png" width="900" />
+{% endcomment %}
 <p float="left">
 <img src="../files/CNS_cyl.png" width="900" />
 </p>
