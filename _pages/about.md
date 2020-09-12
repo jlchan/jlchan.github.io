@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* September 2020: Kaihang Guo has successfully passed his PhD proposal.
 * July 2020: Jesse Chan was selected to participate in the [NAE's 26th annual US Frontiers of Engineering Symposium](https://engineering.rice.edu/news/chan-veeraraghavan-selected-naes-us-frontiers-engineering-symposium).
 * June 2020: our preprint ["Efficient computation of Jacobian matrices for entropy stable summation-by-parts schemes"](https://arxiv.org/abs/2006.07504) with graduate student Christina G. Taylor is now available on arXiv. We derive the structure of Jacobian matrices for entropy stable formulations based on flux differencing. Numerical examples show how these formulas can be applied to two-derivative and implicit time-stepping schemes. 
 * June 2020: our paper ["A weight-adjusted discontinuous Galerkin method for wave propagation in coupled elastic-acoustic media"](https://www.sciencedirect.com/science/article/pii/S002199912030406X) with PhD student Kaihang Guo and Prof. Sebastian Acosta was accepted to JCP and is now online.
