@@ -6,8 +6,7 @@ author_profile: true
 
 ## Upcoming talks
 
-* SIAM Annual 2020, Toronto, CN
-* WCCM-ECCOMAS 2020
+* SIAM TX-LA Sectional Meeting (online)
 
 ## Recent talks
 
