@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming talks
 
-* SIAM TX-LA Sectional Meeting (online)
+* SIAM TX-LA Sectional Meeting (online, Saturday 8:30am). [Schedule](https://www.math.tamu.edu/conferences/SIAMTXLA/full_schedule.html)
 
 ## Recent talks
 
