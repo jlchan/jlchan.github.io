@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* October 2020: our preprint [Entropy stable discontinuous Galerkin methods for nonlinear conservation laws on networks and multi-dimensional domains](https://arxiv.org/abs/2010.09994) is now online. We show how to couple together three or more 1D channels or 1D and 2D domains in an entropy stable fashion, assuming that the simulations on each individual domain/channel are entropy stable.
 * September 2020: our preprint [High order weight-adjusted discontinuous Galerkin methods for wave propagation on moving curved meshes](https://arxiv.org/abs/2009.12768) is now online. We show that by using weight-adjusted mass matrices (a generalization of mass lumping) an Arbitrary Lagrangian-Eulerian formulation, we can avoid the cost of assembling and inverting matrices on moving curved meshes while retaining energy stability up to a term which rapidly converges to zero.
 * September 2020: Yimin Lin has successfully passed his MA thesis defense. 
 * September 2020: Kaihang Guo has successfully passed his PhD proposal.
