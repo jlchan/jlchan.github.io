@@ -37,8 +37,8 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Undergraduate students:
 
-* Quan Le (Summer 2020-Fall 2020)
-* Ruofeng (Charlie) Liu (Fall 2020)
+* **Quan Le** (Summer 2020-Fall 2020)
+* **Ruofeng (Charlie) Liu** (Fall 2020)
 
 ## Visiting researchers:
 
