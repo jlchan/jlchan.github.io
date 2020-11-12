@@ -35,11 +35,12 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 * [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-present. 
 
-{% comment %}
 ## Undergraduate students:
-{% endcomment %}
 
-## Visiting students:
+* Quan Le (Summer 2020-Fall 2020)
+* Ruofeng (Charlie) Liu (Fall 2020)
+
+## Visiting researchers:
 
 * **Khemraj Shukla**: Oklaholma State, PhD student. High order discontinuous Galerkin methods for poroelastic wave propagation (with [M. V de Hoop](http://maartendehoop.rice.edu/)).
 
