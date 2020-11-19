@@ -13,6 +13,7 @@ author_profile: true
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws (November 2020, seminar talk, online). [Slides](../files/cuboulder_aero_2020.pdf)
 * Efficient computation of Jacobian matrices for entropy stable summation-by-parts schemes (October 2020, SIAM TX-LA meeting, online). [Slides](../files/siam_latx_2020.pdf)
 * Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media (April 2020, Electromagnetics seminar, University of Houston, Houston, TX). [Slides](../files/uh2020.pdf)
 * Stable high order methods for time-domain wave propagation in complex geometries and heterogeneous media (March 2020, Rice Oil and Gas HPC Conference 2020, Houston, TX). [Slides](../files/oghpc2020.pdf)
