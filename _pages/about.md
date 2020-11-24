@@ -14,8 +14,9 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
-* November 2020: Jesse Chan gave an online talk at CU Boulder's 
-Ann and HJ Smead Aerospace Engineering Sciences Department. 
+* November 2020: our preprint [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible Navier-Stokes equations
+](https://arxiv.org/abs/2011.11089) is now up on arXiv. We extend the entropy stable treatment of viscous terms to general "modal" DG formulations, which also enables a simple and explicit entropy stable treatment wall boundary conditions. 
+* November 2020: Jesse Chan gave an online talk at CU Boulder's Ann and HJ Smead Aerospace Engineering Sciences Department. 
 * November 2020: our paper [High-order entropy stable discontinuous Galerkin methods for the shallow water equations: curved triangular meshes and GPU acceleration](https://arxiv.org/abs/2005.02516) with PhD student Xinhui (Philip) Wu and Prof. Ethan J. Kubatko was accepted to CAMWA.
 * November 2020: our preprint [A high order discontinuous Galerkin method for the symmetric form of the anisotropic viscoelastic wave equation
 ](https://arxiv.org/abs/2011.01529) is now online. We derive a symmetric form of the anisotropic viscoelastic wave equation which is then used to construct a stable high order DG formulation.
