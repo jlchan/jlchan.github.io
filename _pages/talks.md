@@ -6,8 +6,9 @@ author_profile: true
 
 ## Upcoming talks
 
-* LLNL virtual talk (December 10, 2021)
+* ANU MSI seminar 2/15/2021
 * SIAM CSE 2021
+* SciCade 2021
 
 ## Recent talks
 
