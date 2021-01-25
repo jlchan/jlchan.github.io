@@ -8,7 +8,6 @@ author_profile: true
 
 * ANU MSI seminar 2/15/2021
 * SIAM CSE 2021
-* SciCade 2021
 
 ## Recent talks
 
