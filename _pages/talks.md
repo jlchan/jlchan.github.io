@@ -6,13 +6,13 @@ author_profile: true
 
 ## Upcoming talks
 
-* ANU MSI seminar 2/15/2021
 * SIAM CSE 2021
 
 ## Recent talks
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
 
+* Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws (February 2021, online talk, Computational Mathematics Seminar, Australian National University). [Slides](../files/ANU_CM_2021.pdf)
 * Entropy stable schemes for nonlinear conservation laws: high order discontinuous Galerkin methods and reduced order modeling (Dec 2020, LLNL Data-driven physical simulation seminar). [Slides](../files/esdg_llnl_2020.pdf)
 * Entropy stable high order discontinuous Galerkin methods for nonlinear conservation laws (November 2020, online talk, Fluids, Structures and Materials Seminar Series, Ann and H.J. Smead Aerospace Engineering Sciences, University of Colorado at Boulder). [Slides](../files/cuboulder_aero_2020.pdf)
 * Efficient computation of Jacobian matrices for entropy stable summation-by-parts schemes (October 2020, SIAM TX-LA meeting, online). [Slides](../files/siam_latx_2020.pdf)
