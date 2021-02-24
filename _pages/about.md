@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* February 2020: Jesse Chan gave an online talk in the Computational Mathematics seminar within the Mathematics Department at Australian National University.
 * December 2020: Jesse Chan gave an online talk at the LLNL Data-driven physical simulation seminar. 
 * November 2020: our preprint [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible Navier-Stokes equations
 ](https://arxiv.org/abs/2011.11089) is now up on arXiv. We extend the entropy stable treatment of viscous terms to general "modal" DG formulations, which also enables a simple and explicit entropy stable treatment wall boundary conditions. 
