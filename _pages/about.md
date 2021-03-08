@@ -15,7 +15,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 ## Recent news:
 
 * March 2021: Graduate student Yimin Lin was awarded Best Poster at SIAM CSE 21.
-* March 2021: Philip Wu, Yimin Lin, and Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
+* March 2021: Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
 * February 2021: Jesse Chan gave an online talk in the Computational Mathematics seminar within the Mathematics Department at Australian National University.
 * December 2020: Jesse Chan gave an online talk at the LLNL Data-driven physical simulation seminar. 
 * November 2020: our preprint [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible Navier-Stokes equations
