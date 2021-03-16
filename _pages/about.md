@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* March 2021: our paper "Entropy stable discontinuous Galerkin methods for nonlinear conservation laws on networks and multi-dimensional domains" with grad student Philip Wu was accepted to Journal of Scientific Computing.
+* Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
 * March 2021: Graduate student Yimin Lin was awarded Best Poster at SIAM CSE 21.
 * March 2021: Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
 * February 2021: Jesse Chan gave an online talk in the Computational Mathematics seminar within the Mathematics Department at Australian National University.
