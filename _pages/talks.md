@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming talks
 
-* SIAM CSE 2021
+* USNCCM 
 
 ## Recent talks
 

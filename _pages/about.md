@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* April 2021: Graduate student Kaihang Guo successfully defends his PhD thesis.
 * March 2021: Graduate student Christina Taylor was awarded an NSF GRFP. 
 * March 2021: our paper "Entropy stable discontinuous Galerkin methods for nonlinear conservation laws on networks and multi-dimensional domains" with grad student Philip Wu was accepted to the Journal of Scientific Computing.
 * Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
