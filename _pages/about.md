@@ -14,6 +14,9 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* July 2021: our paper "Discrete adjoint computations for relaxation Runge-Kutta methods" with postdoc Mario Bencomo is now available on [arXiv](https://arxiv.org/abs/2107.11408).
+* July 2021: Jesse Chan, Philip Wu, and Yimin Lin gave talks at USNCCM 16. 
+* June 2021: student Philip Wu gave a talk at SIAM Geosciences on high order entropy stable discretizations on networks and multi-dimensional domains.
 * April 2021: Graduate student Christina Taylor successfully defends her MA thesis.
 * April 2021: Graduate student Kaihang Guo successfully defends his PhD thesis.
 * March 2021: Graduate student Christina Taylor was awarded an NSF GRFP. 
