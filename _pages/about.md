@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 
 ## Recent news:
 
+* August 2021: our paper "A high order discontinuous Galerkin method for the symmetric form of the anisotropic viscoelastic wave equation" with Khemraj Shukla and Maarten V. de Hoop was accepted to CAMWA. 
 * July 2021: our paper "Discrete adjoint computations for relaxation Runge-Kutta methods" with postdoc Mario Bencomo is now available on [arXiv](https://arxiv.org/abs/2107.11408).
 * July 2021: Jesse Chan, Philip Wu, and Yimin Lin gave talks at USNCCM 16. 
 * June 2021: student Philip Wu gave a talk at SIAM Geosciences on high order entropy stable discretizations on networks and multi-dimensional domains.
