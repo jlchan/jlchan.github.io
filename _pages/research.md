@@ -15,7 +15,7 @@ Most of our work falls into three main areas:
 - [Wave propagation in complex heterogeneous media](#efficient-high-order-methods-for-wave-propagation)
 - [Finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes)
 
-We gratefully acknowledge the support of the NSF (DMS-1719818 and DMS-1712639) in making this work possible.
+We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-CAREER-1943186, and previously DMS-1712639) in making this work possible. 
 
 
 ## Entropy stable methods for nonlinear conservation laws
