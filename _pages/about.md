@@ -26,6 +26,10 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 * March 2021: Graduate student Yimin Lin was awarded Best Poster at SIAM CSE 21.
 * March 2021: Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
 * February 2021: Jesse Chan gave an online talk in the Computational Mathematics seminar within the Mathematics Department at Australian National University.
+
+{% comment %}
+
+
 * December 2020: Jesse Chan gave an online talk at the LLNL Data-driven physical simulation seminar. 
 * November 2020: our preprint [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible Navier-Stokes equations
 ](https://arxiv.org/abs/2011.11089) is now up on arXiv. We extend the entropy stable treatment of viscous terms to general "modal" DG formulations, which also enables a simple and explicit entropy stable treatment wall boundary conditions. 
@@ -50,9 +54,6 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-1712639, and 
 * January 2020: Jesse Chan gave a talk at the R-STEM/ConocoPhillips Applied Mathematics Program (AMP!) on "Applications of K-12 geometry and algebra: barycentric coordinates". More information [here](https://www.facebook.com/RiceCAAM/posts/2763081467106010).
 <img src="../files/amp.jpg" width="650" />
 * January 2020: Jesse Chan gave a talk at the University of Houston Dept. of Mathematics. 
-{% comment %}
-
-
 * December 2019: Jesse Chan gave a talk at the University of Toronto Institute of Aerospace (UTIAS).
 * November 2019: graduate students Kaihang Guo and Xinhui (Philip) Wu presented work on wave propagation in acoustic-elastic media and entropy stable schemes for the shallow water equations at the SIAM LA-TX sectional meeting in Dallas, TX.
 * October 2019: our paper ["A weight-adjusted discontinuous Galerkin method for the poroelastic wave equation: penalty fluxes and micro-heterogeneities"](https://www.sciencedirect.com/science/article/pii/S0021999119307661) with Khemraj Shukla, Maarten V. de Hoop, and Priyank Jaiswal has been accepted to the Journal of Computational Physics.
