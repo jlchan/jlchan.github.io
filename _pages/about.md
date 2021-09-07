@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* September 2021: our paper ["Efficient computation of Jacobian matrices for entropy stable summation-by-parts schemes"](https://arxiv.org/abs/2006.07504) with graduate student Christina G. Taylor has been accepted to JCP. 
+* September 2021: our preprint on "Adaptive numerical simulations with Trixi.jl: A case study of Julia for scientific computing" is now available on [arXiv](https://arxiv.org/abs/2108.06476). 
 * August 2021: our paper "High order weight-adjusted discontinuous Galerkin methods on moving curved meshes" with CAAM alum Kaihang Guo has been accepted to IJNME. 
 * August 2021: our paper "A high order discontinuous Galerkin method for the symmetric form of the anisotropic viscoelastic wave equation" with Khemraj Shukla and Maarten V. de Hoop was accepted to CAMWA. 
 * July 2021: our paper "Discrete adjoint computations for relaxation Runge-Kutta methods" with postdoc Mario Bencomo is now available on [arXiv](https://arxiv.org/abs/2107.11408).
