@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* November 2021: Mario Bencomo, Yimin Lin, and Jesse Chan gave talks at the SIAM TX-LA conference in South Padre Island.
 * September 2021: our paper ["Mortar-based entropy stable discontinuous Galerkin methods for non-conforming quadrilateral and hexahedral meshes"](https://arxiv.org/abs/2005.03237) with postdoc Mario Bencomo and David C. Del Rey Fernandez has been accepted to the Journal of Scientific Computing.
 * September 2021: our paper ["Efficient computation of Jacobian matrices for entropy stable summation-by-parts schemes"](https://arxiv.org/abs/2006.07504) with graduate student Christina G. Taylor has been accepted to JCP. 
 * September 2021: our preprint on "Adaptive numerical simulations with Trixi.jl: A case study of Julia for scientific computing" is now available on [arXiv](https://arxiv.org/abs/2108.06476). 
