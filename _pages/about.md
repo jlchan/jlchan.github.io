@@ -14,6 +14,9 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* December 2021: our preprint "Efficient implementation of modern entropy stabl
+e and kinetic energy preserving discontinuous Galerkin methods for conservation
+ laws" is now available on [arXiv](https://arxiv.org/abs/2112.10517).
 * December 2021: our preprint "Entropy stable discontinuous Galerkin methods for the shallow water equations with subcell positivity preservation" with student Philip (Xinhui) Wu and Nathaniel Trask is now availble on [arXiv](https://arxiv.org/abs/2112.07749). In this work, we show how to combine entropy stable schemes with a low order sub-cell positivity preserving scheme. We also extend previous work constructing sparse SBP operators on tensor product elements to triangular elements.
 * November 2021: Mario Bencomo, Yimin Lin, and Jesse Chan gave talks at the SIAM TX-LA conference in South Padre Island.
 * September 2021: our paper ["Mortar-based entropy stable discontinuous Galerkin methods for non-conforming quadrilateral and hexahedral meshes"](https://arxiv.org/abs/2005.03237) with postdoc Mario Bencomo and David C. Del Rey Fernandez has been accepted to the Journal of Scientific Computing.
