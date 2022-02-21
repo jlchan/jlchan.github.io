@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* January 2021: our preprint "A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations" with PhD student Yimin Lin and Ignacio Tomas is now on arXiv. 
 * December 2021: our preprint "Efficient implementation of modern entropy stabl
 e and kinetic energy preserving discontinuous Galerkin methods for conservation
  laws" is now available on [arXiv](https://arxiv.org/abs/2112.10517).
