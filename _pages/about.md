@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on Graphics Processing Units (GPUs). 
+Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on modern many-core architectures. 
 
 We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-1943186) in making this work possible.
 
 ## Recent news:
 
+{% comment %}
+* March 2022: Jesse Chan gave a seminar talk in the Department of Applied Mathematics at Naval Postgraduate School.
+{% endcomment %}
+* March 2022: Jesse Chan gave a seminar talk in the Department of Mathematics and Statistics at Mississippi State University.
 * January 2022: our preprint "A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations" with PhD student Yimin Lin and Ignacio Tomas is now on arXiv. 
 * December 2021: our preprint "Efficient implementation of modern entropy stable and kinetic energy preserving discontinuous Galerkin methods for conservation laws" is now available on [arXiv](https://arxiv.org/abs/2112.10517).
 * December 2021: our preprint "Entropy stable discontinuous Galerkin methods for the shallow water equations with subcell positivity preservation" with student Philip (Xinhui) Wu and Nathaniel Trask is now availble on [arXiv](https://arxiv.org/abs/2112.07749). In this work, we show how to combine entropy stable schemes with a low order sub-cell positivity preserving scheme. We also extend previous work constructing sparse SBP operators on tensor product elements to triangular elements.
