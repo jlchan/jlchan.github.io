@@ -24,23 +24,24 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Graduate students:
 
-* **Philip Wu**: 2019-present, PhD student. High order entropy stable schemes for the shallow water equations. 
 * **Christina Taylor**: 2020-present, PhD student. Tools for entropy stable schemes.
 * [**Yimin Lin**](https://yiminllin.github.io): 2020-present, PhD student. High order entropy stable schemes for the compressible Euler and Navier-Stokes equations.
+* **Raven Johnson**: 2022-present. PhD student. 
 
 ## Postdoctoral Researchers:
 
-* [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-present. 
+* [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-2022. First position after: assistant professor at UC Fresno.
 
 ## Undergraduate students:
 
-* **Prani Nalluri** (Spring 2021)
-* **Ruofeng (Charlie) Liu** (Fall 2020)
+* **Prani Nalluri** (Spring 2021-present)
+* **Ruofeng (Charlie) Liu** (Fall 2020-present)
 
 ## Former members: 
 
-* [**Kaihang Guo**](https://kguo26.github.io): 2017-2021, PhD student. Stable and efficient high order discontinuous Galerkin methods for wave propagation. 
-* **Kyle Busse**: 2019-present. Entropy stable spectral methods.
+* **Philip Wu**: 2019-2022, PhD student. High order entropy stable schemes for the shallow water equations. First position after graduation: Matroid.
+* [**Kaihang Guo**](https://kguo26.github.io): 2017-2021, PhD student. Stable and efficient high order discontinuous Galerkin methods for wave propagation. First position after graduation: CGG Veritas.
+* **Kyle Busse**: 2019-2021, MA candidate. 
 * **Khemraj Shukla**: Oklaholma State, visiting PhD student. High order discontinuous Galerkin methods for poroelastic wave propagation (with [M. V de Hoop](http://maartendehoop.rice.edu/)).
 * **Quan Le** (Summer 2020-Fall 2020)
 * **Jacob Engel**: Summer 2019, Rice undergraduate (CAAM). Stable finite volume schemes on networks. 

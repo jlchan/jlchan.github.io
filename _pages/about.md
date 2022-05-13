@@ -14,9 +14,10 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
-{% comment %}
+* May 2022: graduate student Philip (Xinhui) Wu has successfully defended his PhD.
+* May 2022: Jesse Chan gave a talk during the workshop "New trends in numerical methods for hyperbolic conservation laws" at Purdue University. 
+* March 2022: our preprint "On the entropy projection and the robustness of high order entropy stable discontinuous Galerkin schemes for under-resolved flows" is available on [arXiv](https://arxiv.org/pdf/2203.10238.pdf) and has been accepted. 
 * March 2022: Jesse Chan gave a seminar talk in the Department of Applied Mathematics at Naval Postgraduate School.
-{% endcomment %}
 * March 2022: Jesse Chan gave a seminar talk in the Department of Mathematics and Statistics at Mississippi State University.
 * January 2022: our preprint "A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations" with PhD student Yimin Lin and Ignacio Tomas is now on arXiv. 
 * December 2021: our preprint "Efficient implementation of modern entropy stable and kinetic energy preserving discontinuous Galerkin methods for conservation laws" is now available on [arXiv](https://arxiv.org/abs/2112.10517).
