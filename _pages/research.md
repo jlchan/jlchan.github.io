@@ -38,12 +38,10 @@ Below is a plot of density (with [Tim Warburton](https://www.paranumal.com/) at 
 
 ### Selected relevant papers:
 
+- [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
+- [Efficient entropy stable Gauss collocation methods](https://arxiv.org/abs/1809.01178)
 - [Entropy stable reduced order modeling of nonlinear conservation laws](https://arxiv.org/abs/1909.09103)
 - [Skew-symmetric entropy stable modal discontinuous Galerkin formulations](https://arxiv.org/abs/1902.01828)
-- [Efficient entropy stable Gauss collocation methods](https://arxiv.org/abs/1809.01178)
-- [On discretely entropy conservative and entropy stable discontinuous Galerkin methods](https://www.sciencedirect.com/science/article/pii/S0021999118301153)
-- [Discretely entropy stable weight-adjusted discontinuous Galerkin methods on curvilinear meshes](https://arxiv.org/abs/1805.10934)
-
 
 [Back to top](#top)
 
