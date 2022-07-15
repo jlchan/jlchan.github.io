@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
-Preprints after 2015 are also available on [arXiv](https://arxiv.org/a/chan_j_3.html).
+Most preprints are also available on [arXiv](https://arxiv.org/a/chan_j_3.html).
 
 Our research focuses primarily on high order numerical methods for both linear and nonlinear hyperbolic partial differential equations (PDEs) which are provably reliable and efficient. An advantage of high order methods for time-dependent hyperbolic PDEs is their low numerical dispersion and dissipation compared to low order methods, which allows for the high-fidelity propagation of waves, vortices, and subgrid features over long time and length scales. 
 
-Most of our work falls into three main areas: 
+Much of our work falls into two main application areas: 
 - [Computational fluid dynamics](#entropy-stable-methods-for-nonlinear-conservation-laws)
 - [Wave propagation in complex heterogeneous media](#efficient-high-order-methods-for-wave-propagation)
-- [Finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes)
+
+Our research group has also worked on [finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes).
 
 We gratefully acknowledge the support of the NSF (DMS-1719818, DMS-CAREER-1943186, and previously DMS-1712639) in making this work possible. 
 

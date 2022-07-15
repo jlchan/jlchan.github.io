@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* July 2022: PhD student Christina Taylor attended the Simula Summer School in Computational Physiology.
+* June 2022: our paper "High-Order Methods on Curvilinear Elements" with Alexander Cicchino, David C. Del Rey Fernandez, Siva Nadarajah, and Mark H. Carpenterwas published in the [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2022.111259).
 * May 2022: graduate student Philip (Xinhui) Wu has successfully defended his PhD.
 * May 2022: Jesse Chan gave a talk during the workshop "New trends in numerical methods for hyperbolic conservation laws" at Purdue University. 
 * March 2022: our preprint "On the entropy projection and the robustness of high order entropy stable discontinuous Galerkin schemes for under-resolved flows" is available on [arXiv](https://arxiv.org/pdf/2203.10238.pdf) and has been accepted. 
