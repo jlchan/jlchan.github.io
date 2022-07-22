@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-1719818, and DMS-CAREER-19
 
 ## Recent news:
 
+* July 2022: Jesse Chan gave talks at NAHOMCon and in the CRUNCH seminar at Brown University.
 * July 2022: PhD student Christina Taylor attended the Simula Summer School in Computational Physiology.
 * June 2022: our paper "High-Order Methods on Curvilinear Elements" with Alexander Cicchino, David C. Del Rey Fernandez, Siva Nadarajah, and Mark H. Carpenterwas published in the [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2022.111259).
 * May 2022: graduate student Philip (Xinhui) Wu has successfully defended his PhD.
