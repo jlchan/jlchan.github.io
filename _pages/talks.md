@@ -4,12 +4,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming talks
-
-* Auburn University
-* NYU
-* SIAM TX-LA conference
-
 ## Recent talks
 
 Below are recent talks, with select accompanying slides or video. A complete list of talks can be found on my [CV](../files/jcv.pdf).
