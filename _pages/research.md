@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/), or on my [CV](../files/jcv.pdf). 
+A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=rqGSShYAAAAJ), or on my [CV](../files/jcv.pdf). 
 Most preprints are also available on [arXiv](https://arxiv.org/a/chan_j_3.html).
 
 Our research focuses primarily on high order numerical methods for both linear and nonlinear hyperbolic partial differential equations (PDEs) which are provably reliable and efficient. An advantage of high order methods for time-dependent hyperbolic PDEs is their low numerical dispersion and dissipation compared to low order methods, which allows for the high-fidelity propagation of waves, vortices, and subgrid features over long time and length scales. 
