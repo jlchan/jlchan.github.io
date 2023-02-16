@@ -14,9 +14,17 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186) in making 
 
 ## Recent news:
 
+* February 2023: Our paper "Discrete Adjoint Computations for Relaxation Runge–Kutta Methods" with [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) was accepted to Journal of Scientific Computing.
+* January 2023: Our paper "Entropy-stable Gauss collocation methods for ideal magneto-hydrodynamics" with Andres Rueda-Ramirez, Florian Hindenlang, and Gregor Gassner was accepted to Journal of Computational Physics.
+* December 2023: Our paper "A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations" with PhD student [Yimin Lin](https://yiminllin.github.io/) was accepted to Journal of Computational Physics. 
+* November 2022: Jesse Chan gave a talk at the Department of Mathematics at The Ohio State University.
+* September 2022: Jesse Chan gave a talk at the Department of Applied Mathematics at Naval Postgraduate School. 
 * July 2022: Jesse Chan gave talks at NAHOMCon and in the CRUNCH seminar at Brown University.
 * July 2022: PhD student Christina Taylor attended the Simula Summer School in Computational Physiology.
 * June 2022: our paper "High-Order Methods on Curvilinear Elements" with Alexander Cicchino, David C. Del Rey Fernandez, Siva Nadarajah, and Mark H. Carpenterwas published in the [Journal of Computational Physics](https://doi.org/10.1016/j.jcp.2022.111259).
+
+{% comment %}
+
 * May 2022: graduate student Philip (Xinhui) Wu has successfully defended his PhD.
 * May 2022: Jesse Chan gave a talk during the workshop "New trends in numerical methods for hyperbolic conservation laws" at Purdue University. 
 * March 2022: our preprint "On the entropy projection and the robustness of high order entropy stable discontinuous Galerkin schemes for under-resolved flows" is available on [arXiv](https://arxiv.org/pdf/2203.10238.pdf) and has been accepted. 
@@ -42,10 +50,6 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186) in making 
 * March 2021: Graduate student Yimin Lin was awarded Best Poster at SIAM CSE 21.
 * March 2021: Philip Wu, Yimin Lin, Christina Taylor, and Jesse Chan gave talks at SIAM CSE 21.
 * February 2021: Jesse Chan gave an online talk in the Computational Mathematics seminar within the Mathematics Department at Australian National University.
-
-{% comment %}
-
-
 * December 2020: Jesse Chan gave an online talk at the LLNL Data-driven physical simulation seminar. 
 * November 2020: our preprint [Entropy stable modal discontinuous Galerkin schemes and wall boundary conditions for the compressible Navier-Stokes equations
 ](https://arxiv.org/abs/2011.11089) is now up on arXiv. We extend the entropy stable treatment of viscous terms to general "modal" DG formulations, which also enables a simple and explicit entropy stable treatment wall boundary conditions. 
