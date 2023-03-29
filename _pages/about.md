@@ -14,6 +14,10 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186) in making 
 
 ## Recent news:
 
+* March 2023: Jesse Chan was elected Secretary for the SIAM TX-LA section. 
+* March 2023: Yimin Lin successfully passed his PhD proposal, and will continue to work towards his PhD defense. 
+* March 2023: Jesse Chan presented at the Finite Element Rodeo at Texas A&M.
+* March 2023: Christina G. Taylor and Jesse Chan presented at SIAM CSE 2023 in Amsterdam.
 * February 2023: Our paper "Discrete Adjoint Computations for Relaxation Runge–Kutta Methods" with [Mario Bencomo](https://csm.fresnostate.edu/math/faculty-staff/resident/mbencomo.html) was accepted to Journal of Scientific Computing.
 * January 2023: Our paper "Entropy-stable Gauss collocation methods for ideal magneto-hydrodynamics" with Andres Rueda-Ramirez, Florian Hindenlang, and Gregor Gassner was accepted to Journal of Computational Physics.
 * December 2023: Our paper "A positivity preserving strategy for entropy stable discontinuous Galerkin discretizations of the compressible Euler and Navier-Stokes equations" with PhD student [Yimin Lin](https://yiminllin.github.io/) was accepted to Journal of Computational Physics. 
