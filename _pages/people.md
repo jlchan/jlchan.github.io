@@ -36,7 +36,7 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 ## Undergraduate students:
 
 * **Prani Nalluri** (Spring 2021-present)
-* **Ruofeng (Charlie) Liu** (Fall 2020-present)
+* **Ruofeng (Charlie) Liu** (Fall 2020-Spring 2021)
 
 ## Former members: 
 
