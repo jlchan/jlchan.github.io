@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186) in making 
 
 ## Recent news:
 
+* May 2023: Beatrice Riviere, Matthias Heinkenschloss, and Jesse Chan were awarded an NSF RTG grant. 
+* May 2023: Jesse Chan presented a virtual talk at Princeton Plasma Physics Laboratory. 
 * March 2023: Jesse Chan was elected Secretary for the SIAM TX-LA section. 
 * March 2023: Yimin Lin successfully passed his PhD proposal, and will continue to work towards his PhD defense. 
 * March 2023: Jesse Chan presented at the Finite Element Rodeo at Texas A&M.
