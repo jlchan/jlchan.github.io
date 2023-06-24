@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186) in making 
 
 ## Recent news:
 
+* June 2023: our preprint "High order entropy stable discontinuous Galerkin spectral element methods through subcell limiting" with PhD student Yimin Lin is now available on [arXiv](https://arxiv.org/abs/2306.12663).
 * May 2023: Jesse Chan presented a virtual talk at Princeton Plasma Physics Laboratory.
 * May 2023: Beatrice Riviere, Matthias Heinkenschloss, and Jesse Chan were awarded an NSF RTG grant.
 * March 2023: Jesse Chan was elected Secretary for the SIAM TX-LA section. 
