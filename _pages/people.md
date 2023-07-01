@@ -33,11 +33,11 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Undergraduate students:
 
-* **Mark Lopatofsky**: simulations of rocket designs using Trixi.jl.
+* **Mark Lopatofsky**: (Summer 2023): simulations of rocket designs using Trixi.jl.
 
 ## Former members: 
 
-* **Prani Nalluri** (Spring 2021-present)
+* **Prani Nalluri** (Spring 2021-Spring 2023)
 * **Ruofeng (Charlie) Liu** (Fall 2020-Spring 2021)
 * [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-2022. First position after: assistant professor at UC Fresno.
 * **Philip Wu**: 2019-2022, PhD student. High order entropy stable schemes for the shallow water equations. First position after graduation: Matroid.
