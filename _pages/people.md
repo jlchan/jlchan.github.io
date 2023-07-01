@@ -31,15 +31,15 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Postdoctoral Researchers:
 
-* [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-2022. First position after: assistant professor at UC Fresno.
-
 ## Undergraduate students:
 
-* **Prani Nalluri** (Spring 2021-present)
-* **Ruofeng (Charlie) Liu** (Fall 2020-Spring 2021)
+* **Mark Lopatofsky**: simulations of rocket designs using Trixi.jl.
 
 ## Former members: 
 
+* **Prani Nalluri** (Spring 2021-present)
+* **Ruofeng (Charlie) Liu** (Fall 2020-Spring 2021)
+* [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-2022. First position after: assistant professor at UC Fresno.
 * **Philip Wu**: 2019-2022, PhD student. High order entropy stable schemes for the shallow water equations. First position after graduation: Matroid.
 * [**Kaihang Guo**](https://kguo26.github.io): 2017-2021, PhD student. Stable and efficient high order discontinuous Galerkin methods for wave propagation. First position after graduation: CGG Veritas.
 * **Kyle Busse**: 2019-2021, MA candidate. 
