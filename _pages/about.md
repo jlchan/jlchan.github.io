@@ -14,7 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and DMS-223
 
 ## Recent news:
 
-* August 2023: our preprint "" with undergraduate students Ruofeng Liu and Prani Nalluri (as well as alumni Xinhui Wu) is now available on [arXiv](https://arxiv.org/abs/2307.12089).
+* August 2023: our preprint "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations" with undergraduate students Ruofeng Liu and Prani Nalluri (as well as alumni Xinhui Wu) is now available on [arXiv](https://arxiv.org/abs/2307.12089).
 * July 2023: Jesse Chan's interview with the Houston Asian American Archive is on [Youtube](https://youtu.be/OnPunRwvFww)
 * June 2023: our preprint "High order entropy stable discontinuous Galerkin spectral element methods through subcell limiting" with PhD student Yimin Lin is now available on [arXiv](https://arxiv.org/abs/2306.12663).
 * May 2023: Jesse Chan presented a virtual talk at Princeton Plasma Physics Laboratory.
