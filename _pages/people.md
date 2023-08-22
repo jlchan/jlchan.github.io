@@ -33,7 +33,11 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Undergraduate students:
 
-* **Mark Lopatofsky**: (Summer 2023): simulations of rocket designs using Trixi.jl.
+* **Mark Lopatofsky**: (Summer 2023-Fall 2023): simulations of rocket designs using Trixi.jl.
+
+## High school students:
+
+* **Krissh Chawla**: (Summer 2023-Fall 2023): implementation of quasi-1D shallow water and Euler equations in Trixi.jl.
 
 ## Former members: 
 
