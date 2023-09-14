@@ -33,6 +33,7 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Undergraduate students:
 
+* **Samuel Kwan**: (Fall 2022-Fall 2023): meshfree simulations of nonlinear conservation laws.
 * **Mark Lopatofsky**: (Summer 2023-Fall 2023): simulations of rocket designs using Trixi.jl.
 
 ## High school students:
