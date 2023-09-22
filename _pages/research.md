@@ -16,7 +16,7 @@ Much of our work falls into two main application areas:
 
 Our research group has also worked on [finite element methods on hybrid meshes](#finite-element-methods-on-hybrid-meshes).
 
-We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and previously DMS-1719818, DMS-1712639) in making this work possible. 
+We gratefully acknowledge the support of the NSF (DMS-2231482, DMS-CAREER-1943186, and previously DMS-1719818, DMS-1712639) in making this work possible. 
 
 
 ## Entropy stable methods for nonlinear conservation laws
