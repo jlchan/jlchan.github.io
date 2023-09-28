@@ -24,10 +24,10 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Graduate students:
 
-* **Christina Taylor**: 2020-present, PhD student. High order cut-cell DG discretizations.
+* [**Christina Taylor**](https://sites.google.com/view/christinagtaylor/home): 2020-present, PhD student. High order cut-cell DG discretizations.
 * [**Yimin Lin**](https://yiminllin.github.io): 2020-present, PhD student. High order entropy stable schemes for the compressible Euler and Navier-Stokes equations.
 * **Raven Johnson**: 2022-present. MA/PhD student.
-* **Ray Qu**: 2023-present. MA/PhD student. 
+* [**Ray Qu**](https://ray-qu.com/): 2023-present. MA/PhD student. 
 
 ## Postdoctoral Researchers:
 
