@@ -14,7 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and DMS-223
 
 ## Recent news:
 
-* October 2023: graduate students Yimin Lin, Christina G. Taylor, and Raven S. Johnson presented talks at the first RTG-NASC workshop. Ray Qu presented a poster. 
+* October 2023: graduate students Yimin Lin, Christina G. Taylor, and Raven S. Johnson presented talks at the first RTG-NASC workshop. Ray Qu presented a poster.
+* October 2023: Jesse Chan gave a talk in the Dept. of Applied Math at Brown University. 
 * September 2023: Our paper "Efficient implementation of modern entropy-based discontinuous Galerkin methods for conservation laws" with the developers of Trixi.jl and FLEXI was accepted at ACM: Transactions on Mathematical Software.
 * September 2023: Jesse Chan gave a talk in the Numerical Analysis Seminar at University of Maryland College Park.
 * August 2023: our preprint "High order entropy stable schemes for the quasi-one-dimensional shallow water and compressible Euler equations" with undergraduate students Ruofeng Liu and Prani Nalluri (as well as alumni Xinhui Wu) is now available on [arXiv](https://arxiv.org/abs/2307.12089).
