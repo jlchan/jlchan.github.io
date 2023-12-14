@@ -14,6 +14,7 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and DMS-223
 
 ## Recent news:
 
+* December 2023: graduate student Christina Taylor successfully defended their PhD proposal.
 * November 2023: graduate student Yimin Lin successfully defended their PhD defense.
 * October 2023: graduate student Raven S. Johnson successfully defended their MA thesis. 
 * October 2023: graduate students Yimin Lin, Christina G. Taylor, and Raven S. Johnson presented talks at the [first RTG-NASC workshop](https://cmor.rice.edu/news/cmor-students-postdocs-present-research-first-nasc-training-workshop-rice). Ray Qu presented a poster.
