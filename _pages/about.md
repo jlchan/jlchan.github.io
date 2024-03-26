@@ -14,6 +14,8 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and DMS-223
 
 ## Recent news:
 
+* March 2023: Jesse Chan presented at the 2024 ALGORITMY conference.
+* March 2024: Jesse Chan and Beatrice Riviere organized the [2024 Finite Element Rodeo](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice).
 * December 2023: graduate student Christina Taylor successfully defended their PhD proposal.
 * November 2023: graduate student Yimin Lin successfully defended their PhD defense.
 * October 2023: graduate student Raven S. Johnson successfully defended their MA thesis. 
