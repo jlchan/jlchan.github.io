@@ -25,9 +25,10 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 ## Graduate students:
 
 * [**Christina Taylor**](https://sites.google.com/view/christinagtaylor/home): 2020-present, PhD student. High order cut-cell DG discretizations.
-* [**Yimin Lin**](https://yiminllin.github.io): 2020-present, PhD student. High order entropy stable schemes for the compressible Euler and Navier-Stokes equations.
-* **Raven Johnson**: 2022-present. MA/PhD student.
-* [**Ray Qu**](https://ray-qu.com/): 2023-present. MA/PhD student. 
+* **Raven Johnson**: 2022-present. PhD student. Entropy stable DG methods for blood flow.
+* [**Ray Qu**](https://ray-qu.com/): 2023-present. MA/PhD student. Entropy stable reduced order modeling.
+* **Brian Christner**: 2024-present. MA/PhD student.
+* **Raymond Park**: 2024-present. MA/PhD student.
 
 ## Postdoctoral Researchers:
 
@@ -42,6 +43,7 @@ Assistant Professor (2016-present), Department of Computational and Applied Math
 
 ## Former members: 
 
+* [**Yimin Lin**](https://yiminllin.github.io): 2020-2023, PhD student. High order entropy stable schemes for the compressible Euler and Navier-Stokes equations. First position after: Aurora
 * [**Prani Nalluri**](https://www.linkedin.com/in/prani-nalluri-292624199/) (Spring 2021-Spring 2023). First position after: PhD Student in Applied Mathematics at Columbia.
 * **Ruofeng (Charlie) Liu** (Fall 2020-Spring 2021)
 * [**Mario J. Bencomo**](https://scholar.google.com/citations?user=j1w68BQAAAAJ&hl=en): 2019-2022. First position after: assistant professor at UC Fresno.
