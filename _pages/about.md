@@ -15,7 +15,7 @@ We gratefully acknowledge the support of the NSF (DMS-CAREER-1943186 and DMS-223
 ## Recent news:
 
 * June 2024: Raven S. Johnson, Yimin Lin, and Jesse Chan gave talks at the NAHOMCon 2024 conference.
-* June 2024: Raven S. Johnson and Jesse Chan gave talks to local high school students as part of the Summer Math Days outreach program. 
+* June 2024: Raven S. Johnson, Raymond Park, and Jesse Chan gave talks to local high school students as part of the Summer Math Days outreach program. 
 * April 2024: our paper "An Energy Stable High-Order Cut Cell Discontinuous Galerkin Method with State Redistribution for Wave Propagation" with Christina G. Taylor and Lucas C. Wilcox (NPS) is now available on [arXiv](https://arxiv.org/abs/2404.06630).
 * March 2024: Jesse Chan presented at the 2024 ALGORITMY conference.
 * March 2024: Jesse Chan and Beatrice Riviere organized the [2024 Finite Element Rodeo](https://engineering.rice.edu/news/finite-element-rodeo-returns-rice).
