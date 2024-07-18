@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jesse Chan"
-description              : &description "Assistant professor in CAAM at Rice University"
+description              : &description "Associate professor in CAAM at Rice University"
 url                      : https://jlchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jlchan/jlchan.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jesse Chan"
   avatar           : "chan_cropped.jpg"
-  bio              : "Assistant Professor of <a href=http://www.caam.rice.edu/>Computational and Applied Mathematics at Rice University</a>"
+  bio              : "Associate Professor of <a href=http://www.caam.rice.edu/>Computational and Applied Mathematics at Rice University</a>"
   location         : "2007 Duncan Hall<br>&emsp;&nbsp;&nbsp; 6100 Main St<br>&emsp;&nbsp;&nbsp; Houston, TX, 77005<br>&emsp;&nbsp;&nbsp; 713-348-6113"
   employer         : Rice University
   googlescholar    : "https://scholar.google.com/citations?user=rqGSShYAAAAJ&hl=en"

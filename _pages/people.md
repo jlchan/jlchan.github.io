@@ -11,7 +11,7 @@ redirect_from:
 
 ## Jesse Chan 
 
-Assistant Professor (2016-present), Department of Computational and Applied Mathematics.
+Associate Professor, Department of Computational and Applied Mathematics.
 
 **Education and Other Appointments:**
 
