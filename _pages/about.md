@@ -6,7 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+redirect_to https://scholar.google.com/citations?hl=en&user=rqGSShYAAAAJ
 ---
+
+
 
 Our group focuses on computational mechanics and the efficient numerical solution of time-dependent partial differential equations. Recent work in this group has focused on provably stable and high order accurate methods for time-dependent wave propagation and fluid dynamics, as well as their efficient implementation on modern many-core architectures. 
 
