@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-redirect_to https://scholar.google.com/citations?hl=en&user=rqGSShYAAAAJ
+redirect_to: https://scholar.google.com/citations?hl=en&user=rqGSShYAAAAJ
 ---
 
 
